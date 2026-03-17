@@ -8,6 +8,7 @@
     "five_day_return": -0.82,
     "target_price": 75.87,
     "result": null,
-    "actual_return": null
+    "actual_return": null,
+    "reasoning": "Oversold RSI with intact uptrend and volume confirmation suggest a near-term bounce."
   }
 ]

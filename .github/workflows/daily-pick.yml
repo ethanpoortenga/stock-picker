@@ -24,7 +24,7 @@ jobs:
           cache-dependency-path: strategy/requirements.txt
 
       - name: Install dependencies
-        run: pip install -r strategy/requirements.txt lxml
+        run: pip install -r strategy/requirements.txt lxml anthropic
 
       - name: Update results for past picks
         working-directory: strategy
@@ -33,6 +33,8 @@ jobs:
       - name: Run stock picker
         working-directory: strategy
         run: python3 picker.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
 
       - name: Copy data to site
         run: cp data/picks.json data/backtest.json site/src/data/
