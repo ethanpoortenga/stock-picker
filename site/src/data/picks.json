@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-03-16",
+    "ticker": "HOLX",
+    "price_at_pick": 75.12,
+    "score": 100.0,
+    "rsi": 38.2,
+    "five_day_return": -0.82,
+    "target_price": 75.87,
+    "result": null,
+    "actual_return": null
+  }
+]

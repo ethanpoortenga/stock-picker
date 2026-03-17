@@ -1,0 +1,3586 @@
+{
+  "start_date": "2024-06-01",
+  "end_date": "2025-12-31",
+  "total_picks": 395,
+  "wins": 108,
+  "losses": 287,
+  "win_rate": 27.3,
+  "avg_daily_return": -0.06,
+  "total_return": -23.22,
+  "sharpe_ratio": -0.36,
+  "best_pick": {
+    "date": "2024-12-03",
+    "ticker": "CRM",
+    "price_at_pick": 328.91,
+    "score": 105.0,
+    "next_day_close": 365.07,
+    "actual_return": 10.99,
+    "result": "win"
+  },
+  "worst_pick": {
+    "date": "2025-02-20",
+    "ticker": "AKAM",
+    "price_at_pick": 98.03,
+    "score": 105.0,
+    "next_day_close": 76.73,
+    "actual_return": -21.73,
+    "result": "loss"
+  },
+  "picks": [
+    {
+      "date": "2024-06-03",
+      "ticker": "DOV",
+      "price_at_pick": 177.92,
+      "score": 93.0,
+      "next_day_close": 176.1,
+      "actual_return": -1.02,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-04",
+      "ticker": "LDOS",
+      "price_at_pick": 141.96,
+      "score": 93.0,
+      "next_day_close": 143.09,
+      "actual_return": 0.8,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-05",
+      "ticker": "NRG",
+      "price_at_pick": 79.41,
+      "score": 90.0,
+      "next_day_close": 75.79,
+      "actual_return": -4.56,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-06",
+      "ticker": "JPM",
+      "price_at_pick": 189.74,
+      "score": 85.0,
+      "next_day_close": 192.67,
+      "actual_return": 1.54,
+      "result": "win"
+    },
+    {
+      "date": "2024-06-07",
+      "ticker": "CB",
+      "price_at_pick": 262.09,
+      "score": 90.0,
+      "next_day_close": 262.55,
+      "actual_return": 0.18,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-10",
+      "ticker": "TROW",
+      "price_at_pick": 105.74,
+      "score": 90.0,
+      "next_day_close": 105.2,
+      "actual_return": -0.5,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-11",
+      "ticker": "DHR",
+      "price_at_pick": 258.79,
+      "score": 90.0,
+      "next_day_close": 262.11,
+      "actual_return": 1.29,
+      "result": "win"
+    },
+    {
+      "date": "2024-06-12",
+      "ticker": "JCI",
+      "price_at_pick": 69.55,
+      "score": 90.0,
+      "next_day_close": 69.01,
+      "actual_return": -0.77,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-13",
+      "ticker": "UNH",
+      "price_at_pick": 476.05,
+      "score": 83.0,
+      "next_day_close": 475.88,
+      "actual_return": -0.04,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-14",
+      "ticker": "TEL",
+      "price_at_pick": 143.88,
+      "score": 90.0,
+      "next_day_close": 146.65,
+      "actual_return": 1.92,
+      "result": "win"
+    },
+    {
+      "date": "2024-06-17",
+      "ticker": "TYL",
+      "price_at_pick": 467.27,
+      "score": 90.0,
+      "next_day_close": 472.9,
+      "actual_return": 1.2,
+      "result": "win"
+    },
+    {
+      "date": "2024-06-18",
+      "ticker": "PCG",
+      "price_at_pick": 17.6,
+      "score": 90.0,
+      "next_day_close": 17.65,
+      "actual_return": 0.28,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-20",
+      "ticker": "DD",
+      "price_at_pick": 32.29,
+      "score": 85.0,
+      "next_day_close": 32.27,
+      "actual_return": -0.05,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-21",
+      "ticker": "DVA",
+      "price_at_pick": 141.38,
+      "score": 105.0,
+      "next_day_close": 143.88,
+      "actual_return": 1.77,
+      "result": "win"
+    },
+    {
+      "date": "2024-06-24",
+      "ticker": "WELL",
+      "price_at_pick": 99.77,
+      "score": 90.0,
+      "next_day_close": 97.79,
+      "actual_return": -1.98,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-25",
+      "ticker": "HWM",
+      "price_at_pick": 77.82,
+      "score": 90.0,
+      "next_day_close": 78.62,
+      "actual_return": 1.02,
+      "result": "win"
+    },
+    {
+      "date": "2024-06-26",
+      "ticker": "TMUS",
+      "price_at_pick": 171.59,
+      "score": 90.0,
+      "next_day_close": 172.67,
+      "actual_return": 0.63,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-27",
+      "ticker": "NKE",
+      "price_at_pick": 90.55,
+      "score": 105.0,
+      "next_day_close": 72.46,
+      "actual_return": -19.98,
+      "result": "loss"
+    },
+    {
+      "date": "2024-06-28",
+      "ticker": "VRSN",
+      "price_at_pick": 175.61,
+      "score": 105.0,
+      "next_day_close": 173.54,
+      "actual_return": -1.18,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-01",
+      "ticker": "GM",
+      "price_at_pick": 45.87,
+      "score": 90.0,
+      "next_day_close": 46.14,
+      "actual_return": 0.58,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-02",
+      "ticker": "ECL",
+      "price_at_pick": 232.12,
+      "score": 85.0,
+      "next_day_close": 232.31,
+      "actual_return": 0.08,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-03",
+      "ticker": "DXC",
+      "price_at_pick": 18.2,
+      "score": 90.0,
+      "next_day_close": 18.38,
+      "actual_return": 0.99,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-05",
+      "ticker": "EXR",
+      "price_at_pick": 144.68,
+      "score": 90.0,
+      "next_day_close": 144.87,
+      "actual_return": 0.14,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-08",
+      "ticker": "EXR",
+      "price_at_pick": 144.87,
+      "score": 90.0,
+      "next_day_close": 143.9,
+      "actual_return": -0.67,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-09",
+      "ticker": "GM",
+      "price_at_pick": 45.46,
+      "score": 85.0,
+      "next_day_close": 45.73,
+      "actual_return": 0.58,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-10",
+      "ticker": "ORCL",
+      "price_at_pick": 139.59,
+      "score": 90.0,
+      "next_day_close": 140.67,
+      "actual_return": 0.77,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-11",
+      "ticker": "COST",
+      "price_at_pick": 838.74,
+      "score": 90.0,
+      "next_day_close": 835.08,
+      "actual_return": -0.44,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-12",
+      "ticker": "CNP",
+      "price_at_pick": 29.0,
+      "score": 83.0,
+      "next_day_close": 27.07,
+      "actual_return": -6.67,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-15",
+      "ticker": "IFF",
+      "price_at_pick": 93.2,
+      "score": 85.0,
+      "next_day_close": 95.05,
+      "actual_return": 1.99,
+      "result": "win"
+    },
+    {
+      "date": "2024-07-16",
+      "ticker": "ISRG",
+      "price_at_pick": 438.01,
+      "score": 85.0,
+      "next_day_close": 426.23,
+      "actual_return": -2.69,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-17",
+      "ticker": "INTC",
+      "price_at_pick": 34.24,
+      "score": 75.0,
+      "next_day_close": 34.65,
+      "actual_return": 1.19,
+      "result": "win"
+    },
+    {
+      "date": "2024-07-18",
+      "ticker": "NOW",
+      "price_at_pick": 147.75,
+      "score": 85.0,
+      "next_day_close": 150.24,
+      "actual_return": 1.68,
+      "result": "win"
+    },
+    {
+      "date": "2024-07-19",
+      "ticker": "INTU",
+      "price_at_pick": 630.16,
+      "score": 90.0,
+      "next_day_close": 638.04,
+      "actual_return": 1.25,
+      "result": "win"
+    },
+    {
+      "date": "2024-07-22",
+      "ticker": "NOW",
+      "price_at_pick": 151.3,
+      "score": 85.0,
+      "next_day_close": 153.1,
+      "actual_return": 1.19,
+      "result": "win"
+    },
+    {
+      "date": "2024-07-23",
+      "ticker": "GOOG",
+      "price_at_pick": 182.31,
+      "score": 100.0,
+      "next_day_close": 173.15,
+      "actual_return": -5.03,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-24",
+      "ticker": "TRGP",
+      "price_at_pick": 126.84,
+      "score": 85.0,
+      "next_day_close": 127.19,
+      "actual_return": 0.27,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-25",
+      "ticker": "AAPL",
+      "price_at_pick": 215.82,
+      "score": 85.0,
+      "next_day_close": 216.29,
+      "actual_return": 0.22,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-26",
+      "ticker": "AAPL",
+      "price_at_pick": 216.29,
+      "score": 85.0,
+      "next_day_close": 216.57,
+      "actual_return": 0.13,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-29",
+      "ticker": "AAPL",
+      "price_at_pick": 216.57,
+      "score": 90.0,
+      "next_day_close": 217.12,
+      "actual_return": 0.26,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-30",
+      "ticker": "QRVO",
+      "price_at_pick": 119.46,
+      "score": 85.0,
+      "next_day_close": 119.8,
+      "actual_return": 0.28,
+      "result": "loss"
+    },
+    {
+      "date": "2024-07-31",
+      "ticker": "WMT",
+      "price_at_pick": 67.65,
+      "score": 100.0,
+      "next_day_close": 68.78,
+      "actual_return": 1.68,
+      "result": "win"
+    },
+    {
+      "date": "2024-08-01",
+      "ticker": "ECL",
+      "price_at_pick": 236.64,
+      "score": 100.0,
+      "next_day_close": 233.64,
+      "actual_return": -1.27,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-02",
+      "ticker": "CMA",
+      "price_at_pick": 48.71,
+      "score": 98.0,
+      "next_day_close": 48.27,
+      "actual_return": -0.9,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-05",
+      "ticker": "AMGN",
+      "price_at_pick": 308.17,
+      "score": 98.0,
+      "next_day_close": 311.71,
+      "actual_return": 1.15,
+      "result": "win"
+    },
+    {
+      "date": "2024-08-06",
+      "ticker": "SPGI",
+      "price_at_pick": 473.17,
+      "score": 98.0,
+      "next_day_close": 471.83,
+      "actual_return": -0.28,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-07",
+      "ticker": "BRK-B",
+      "price_at_pick": 427.02,
+      "score": 90.0,
+      "next_day_close": 431.54,
+      "actual_return": 1.06,
+      "result": "win"
+    },
+    {
+      "date": "2024-08-08",
+      "ticker": "J",
+      "price_at_pick": 116.01,
+      "score": 100.0,
+      "next_day_close": 117.02,
+      "actual_return": 0.87,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-09",
+      "ticker": "JKHY",
+      "price_at_pick": 162.6,
+      "score": 93.0,
+      "next_day_close": 158.96,
+      "actual_return": -2.24,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-12",
+      "ticker": "HSIC",
+      "price_at_pick": 67.89,
+      "score": 105.0,
+      "next_day_close": 69.44,
+      "actual_return": 2.28,
+      "result": "win"
+    },
+    {
+      "date": "2024-08-13",
+      "ticker": "AMGN",
+      "price_at_pick": 306.5,
+      "score": 75.0,
+      "next_day_close": 305.81,
+      "actual_return": -0.22,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-14",
+      "ticker": "POOL",
+      "price_at_pick": 334.18,
+      "score": 85.0,
+      "next_day_close": 338.32,
+      "actual_return": 1.24,
+      "result": "win"
+    },
+    {
+      "date": "2024-08-15",
+      "ticker": "POOL",
+      "price_at_pick": 338.32,
+      "score": 90.0,
+      "next_day_close": 336.56,
+      "actual_return": -0.52,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-16",
+      "ticker": "POOL",
+      "price_at_pick": 336.56,
+      "score": 90.0,
+      "next_day_close": 336.86,
+      "actual_return": 0.09,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-19",
+      "ticker": "HOLX",
+      "price_at_pick": 81.35,
+      "score": 90.0,
+      "next_day_close": 80.91,
+      "actual_return": -0.54,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-20",
+      "ticker": "MPC",
+      "price_at_pick": 165.29,
+      "score": 90.0,
+      "next_day_close": 166.44,
+      "actual_return": 0.69,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-21",
+      "ticker": "AMT",
+      "price_at_pick": 208.66,
+      "score": 90.0,
+      "next_day_close": 209.24,
+      "actual_return": 0.28,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-22",
+      "ticker": "MOH",
+      "price_at_pick": 343.88,
+      "score": 90.0,
+      "next_day_close": 345.82,
+      "actual_return": 0.56,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-23",
+      "ticker": "HOLX",
+      "price_at_pick": 80.25,
+      "score": 85.0,
+      "next_day_close": 79.75,
+      "actual_return": -0.62,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-26",
+      "ticker": "YUM",
+      "price_at_pick": 130.49,
+      "score": 90.0,
+      "next_day_close": 130.71,
+      "actual_return": 0.16,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-27",
+      "ticker": "SO",
+      "price_at_pick": 81.64,
+      "score": 90.0,
+      "next_day_close": 81.65,
+      "actual_return": 0.01,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-28",
+      "ticker": "PG",
+      "price_at_pick": 162.59,
+      "score": 90.0,
+      "next_day_close": 163.52,
+      "actual_return": 0.57,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-29",
+      "ticker": "HSY",
+      "price_at_pick": 182.92,
+      "score": 75.0,
+      "next_day_close": 184.22,
+      "actual_return": 0.71,
+      "result": "loss"
+    },
+    {
+      "date": "2024-08-30",
+      "ticker": "CBRE",
+      "price_at_pick": 115.14,
+      "score": 75.0,
+      "next_day_close": 115.66,
+      "actual_return": 0.45,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-03",
+      "ticker": "CF",
+      "price_at_pick": 76.39,
+      "score": 90.0,
+      "next_day_close": 77.37,
+      "actual_return": 1.29,
+      "result": "win"
+    },
+    {
+      "date": "2024-09-04",
+      "ticker": "WAT",
+      "price_at_pick": 331.56,
+      "score": 93.0,
+      "next_day_close": 331.31,
+      "actual_return": -0.08,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-05",
+      "ticker": "HWM",
+      "price_at_pick": 93.84,
+      "score": 98.0,
+      "next_day_close": 91.08,
+      "actual_return": -2.94,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-06",
+      "ticker": "CMA",
+      "price_at_pick": 51.35,
+      "score": 105.0,
+      "next_day_close": 51.88,
+      "actual_return": 1.04,
+      "result": "win"
+    },
+    {
+      "date": "2024-09-09",
+      "ticker": "CMA",
+      "price_at_pick": 51.88,
+      "score": 98.0,
+      "next_day_close": 53.71,
+      "actual_return": 3.54,
+      "result": "win"
+    },
+    {
+      "date": "2024-09-10",
+      "ticker": "CSCO",
+      "price_at_pick": 46.95,
+      "score": 90.0,
+      "next_day_close": 47.26,
+      "actual_return": 0.66,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-11",
+      "ticker": "ILMN",
+      "price_at_pick": 124.83,
+      "score": 105.0,
+      "next_day_close": 126.25,
+      "actual_return": 1.14,
+      "result": "win"
+    },
+    {
+      "date": "2024-09-12",
+      "ticker": "ILMN",
+      "price_at_pick": 126.25,
+      "score": 90.0,
+      "next_day_close": 129.18,
+      "actual_return": 2.32,
+      "result": "win"
+    },
+    {
+      "date": "2024-09-13",
+      "ticker": "FOXA",
+      "price_at_pick": 39.1,
+      "score": 93.0,
+      "next_day_close": 39.15,
+      "actual_return": 0.13,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-16",
+      "ticker": "USB",
+      "price_at_pick": 41.89,
+      "score": 98.0,
+      "next_day_close": 41.88,
+      "actual_return": -0.02,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-17",
+      "ticker": "CHRW",
+      "price_at_pick": 97.2,
+      "score": 90.0,
+      "next_day_close": 98.93,
+      "actual_return": 1.78,
+      "result": "win"
+    },
+    {
+      "date": "2024-09-18",
+      "ticker": "TMUS",
+      "price_at_pick": 192.04,
+      "score": 100.0,
+      "next_day_close": 194.93,
+      "actual_return": 1.5,
+      "result": "win"
+    },
+    {
+      "date": "2024-09-19",
+      "ticker": "MMC",
+      "price_at_pick": 219.15,
+      "score": 100.0,
+      "next_day_close": 218.12,
+      "actual_return": -0.47,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-20",
+      "ticker": "AFL",
+      "price_at_pick": 104.57,
+      "score": 100.0,
+      "next_day_close": 106.6,
+      "actual_return": 1.95,
+      "result": "win"
+    },
+    {
+      "date": "2024-09-23",
+      "ticker": "INVH",
+      "price_at_pick": 34.54,
+      "score": 100.0,
+      "next_day_close": 33.64,
+      "actual_return": -2.6,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-24",
+      "ticker": "CAH",
+      "price_at_pick": 107.86,
+      "score": 100.0,
+      "next_day_close": 106.52,
+      "actual_return": -1.24,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-25",
+      "ticker": "WTW",
+      "price_at_pick": 285.49,
+      "score": 93.0,
+      "next_day_close": 286.24,
+      "actual_return": 0.27,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-26",
+      "ticker": "GIS",
+      "price_at_pick": 69.19,
+      "score": 90.0,
+      "next_day_close": 69.55,
+      "actual_return": 0.53,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-27",
+      "ticker": "PNW",
+      "price_at_pick": 83.1,
+      "score": 100.0,
+      "next_day_close": 83.4,
+      "actual_return": 0.36,
+      "result": "loss"
+    },
+    {
+      "date": "2024-09-30",
+      "ticker": "DUK",
+      "price_at_pick": 109.29,
+      "score": 100.0,
+      "next_day_close": 110.17,
+      "actual_return": 0.8,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-01",
+      "ticker": "KIM",
+      "price_at_pick": 21.55,
+      "score": 93.0,
+      "next_day_close": 21.44,
+      "actual_return": -0.52,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-02",
+      "ticker": "KIM",
+      "price_at_pick": 21.44,
+      "score": 90.0,
+      "next_day_close": 21.35,
+      "actual_return": -0.39,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-03",
+      "ticker": "COO",
+      "price_at_pick": 106.97,
+      "score": 100.0,
+      "next_day_close": 105.92,
+      "actual_return": -0.98,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-04",
+      "ticker": "LIN",
+      "price_at_pick": 459.02,
+      "score": 93.0,
+      "next_day_close": 454.18,
+      "actual_return": -1.06,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-07",
+      "ticker": "IP",
+      "price_at_pick": 45.0,
+      "score": 100.0,
+      "next_day_close": 44.67,
+      "actual_return": -0.73,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-08",
+      "ticker": "LNT",
+      "price_at_pick": 56.77,
+      "score": 93.0,
+      "next_day_close": 56.75,
+      "actual_return": -0.05,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-09",
+      "ticker": "DOV",
+      "price_at_pick": 183.14,
+      "score": 93.0,
+      "next_day_close": 183.67,
+      "actual_return": 0.29,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-10",
+      "ticker": "FAST",
+      "price_at_pick": 33.9,
+      "score": 100.0,
+      "next_day_close": 37.21,
+      "actual_return": 9.76,
+      "result": "win"
+    },
+    {
+      "date": "2024-10-11",
+      "ticker": "CTVA",
+      "price_at_pick": 55.98,
+      "score": 85.0,
+      "next_day_close": 56.89,
+      "actual_return": 1.62,
+      "result": "win"
+    },
+    {
+      "date": "2024-10-14",
+      "ticker": "WY",
+      "price_at_pick": 31.08,
+      "score": 85.0,
+      "next_day_close": 31.52,
+      "actual_return": 1.41,
+      "result": "win"
+    },
+    {
+      "date": "2024-10-15",
+      "ticker": "INTC",
+      "price_at_pick": 22.66,
+      "score": 90.0,
+      "next_day_close": 22.31,
+      "actual_return": -1.54,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-16",
+      "ticker": "FCX",
+      "price_at_pick": 47.13,
+      "score": 90.0,
+      "next_day_close": 47.11,
+      "actual_return": -0.04,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-17",
+      "ticker": "VRSN",
+      "price_at_pick": 183.59,
+      "score": 100.0,
+      "next_day_close": 185.41,
+      "actual_return": 0.99,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-18",
+      "ticker": "FTV",
+      "price_at_pick": 58.0,
+      "score": 100.0,
+      "next_day_close": 57.74,
+      "actual_return": -0.45,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-21",
+      "ticker": "UPS",
+      "price_at_pick": 119.72,
+      "score": 93.0,
+      "next_day_close": 119.72,
+      "actual_return": 0.0,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-22",
+      "ticker": "COO",
+      "price_at_pick": 105.83,
+      "score": 90.0,
+      "next_day_close": 105.32,
+      "actual_return": -0.48,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-23",
+      "ticker": "CNP",
+      "price_at_pick": 28.7,
+      "score": 90.0,
+      "next_day_close": 28.44,
+      "actual_return": -0.91,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-24",
+      "ticker": "CEG",
+      "price_at_pick": 262.26,
+      "score": 90.0,
+      "next_day_close": 262.17,
+      "actual_return": -0.03,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-25",
+      "ticker": "BMY",
+      "price_at_pick": 48.88,
+      "score": 90.0,
+      "next_day_close": 49.56,
+      "actual_return": 1.39,
+      "result": "win"
+    },
+    {
+      "date": "2024-10-28",
+      "ticker": "GNRC",
+      "price_at_pick": 165.65,
+      "score": 90.0,
+      "next_day_close": 165.6,
+      "actual_return": -0.03,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-29",
+      "ticker": "MSI",
+      "price_at_pick": 452.23,
+      "score": 93.0,
+      "next_day_close": 447.06,
+      "actual_return": -1.14,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-30",
+      "ticker": "AKAM",
+      "price_at_pick": 101.85,
+      "score": 100.0,
+      "next_day_close": 101.08,
+      "actual_return": -0.76,
+      "result": "loss"
+    },
+    {
+      "date": "2024-10-31",
+      "ticker": "AKAM",
+      "price_at_pick": 101.08,
+      "score": 100.0,
+      "next_day_close": 100.57,
+      "actual_return": -0.5,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-01",
+      "ticker": "URI",
+      "price_at_pick": 783.19,
+      "score": 100.0,
+      "next_day_close": 775.81,
+      "actual_return": -0.94,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-04",
+      "ticker": "MAR",
+      "price_at_pick": 252.89,
+      "score": 100.0,
+      "next_day_close": 256.08,
+      "actual_return": 1.26,
+      "result": "win"
+    },
+    {
+      "date": "2024-11-05",
+      "ticker": "AIG",
+      "price_at_pick": 73.41,
+      "score": 100.0,
+      "next_day_close": 74.99,
+      "actual_return": 2.16,
+      "result": "win"
+    },
+    {
+      "date": "2024-11-06",
+      "ticker": "CHRW",
+      "price_at_pick": 103.17,
+      "score": 90.0,
+      "next_day_close": 104.62,
+      "actual_return": 1.4,
+      "result": "win"
+    },
+    {
+      "date": "2024-11-07",
+      "ticker": "SEE",
+      "price_at_pick": 34.38,
+      "score": 105.0,
+      "next_day_close": 34.22,
+      "actual_return": -0.48,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-08",
+      "ticker": "DXCM",
+      "price_at_pick": 69.96,
+      "score": 85.0,
+      "next_day_close": 70.31,
+      "actual_return": 0.5,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-11",
+      "ticker": "AIG",
+      "price_at_pick": 73.4,
+      "score": 83.0,
+      "next_day_close": 72.89,
+      "actual_return": -0.69,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-12",
+      "ticker": "SEE",
+      "price_at_pick": 34.39,
+      "score": 100.0,
+      "next_day_close": 34.49,
+      "actual_return": 0.28,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-13",
+      "ticker": "AIG",
+      "price_at_pick": 74.09,
+      "score": 75.0,
+      "next_day_close": 73.76,
+      "actual_return": -0.45,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-14",
+      "ticker": "AON",
+      "price_at_pick": 374.07,
+      "score": 78.0,
+      "next_day_close": 377.01,
+      "actual_return": 0.79,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-15",
+      "ticker": "WST",
+      "price_at_pick": 313.18,
+      "score": 78.0,
+      "next_day_close": 305.94,
+      "actual_return": -2.31,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-18",
+      "ticker": "TYL",
+      "price_at_pick": 601.19,
+      "score": 85.0,
+      "next_day_close": 599.68,
+      "actual_return": -0.25,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-19",
+      "ticker": "KR",
+      "price_at_pick": 56.66,
+      "score": 75.0,
+      "next_day_close": 56.18,
+      "actual_return": -0.84,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-20",
+      "ticker": "VTR",
+      "price_at_pick": 61.88,
+      "score": 75.0,
+      "next_day_close": 62.06,
+      "actual_return": 0.3,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-21",
+      "ticker": "WAT",
+      "price_at_pick": 368.5,
+      "score": 90.0,
+      "next_day_close": 373.47,
+      "actual_return": 1.35,
+      "result": "win"
+    },
+    {
+      "date": "2024-11-22",
+      "ticker": "VFC",
+      "price_at_pick": 19.12,
+      "score": 90.0,
+      "next_day_close": 19.79,
+      "actual_return": 3.5,
+      "result": "win"
+    },
+    {
+      "date": "2024-11-25",
+      "ticker": "NRG",
+      "price_at_pick": 90.35,
+      "score": 85.0,
+      "next_day_close": 99.49,
+      "actual_return": 10.11,
+      "result": "win"
+    },
+    {
+      "date": "2024-11-26",
+      "ticker": "INTC",
+      "price_at_pick": 24.05,
+      "score": 90.0,
+      "next_day_close": 23.65,
+      "actual_return": -1.66,
+      "result": "loss"
+    },
+    {
+      "date": "2024-11-27",
+      "ticker": "HPE",
+      "price_at_pick": 20.13,
+      "score": 93.0,
+      "next_day_close": 20.53,
+      "actual_return": 2.02,
+      "result": "win"
+    },
+    {
+      "date": "2024-11-29",
+      "ticker": "APH",
+      "price_at_pick": 71.94,
+      "score": 90.0,
+      "next_day_close": 72.36,
+      "actual_return": 0.59,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-02",
+      "ticker": "INTC",
+      "price_at_pick": 23.93,
+      "score": 105.0,
+      "next_day_close": 22.47,
+      "actual_return": -6.1,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-03",
+      "ticker": "CRM",
+      "price_at_pick": 328.91,
+      "score": 105.0,
+      "next_day_close": 365.07,
+      "actual_return": 10.99,
+      "result": "win"
+    },
+    {
+      "date": "2024-12-04",
+      "ticker": "EPAM",
+      "price_at_pick": 241.91,
+      "score": 98.0,
+      "next_day_close": 240.37,
+      "actual_return": -0.64,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-05",
+      "ticker": "HON",
+      "price_at_pick": 207.69,
+      "score": 90.0,
+      "next_day_close": 207.77,
+      "actual_return": 0.04,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-06",
+      "ticker": "CHD",
+      "price_at_pick": 105.54,
+      "score": 90.0,
+      "next_day_close": 104.24,
+      "actual_return": -1.23,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-09",
+      "ticker": "AMP",
+      "price_at_pick": 545.21,
+      "score": 93.0,
+      "next_day_close": 537.84,
+      "actual_return": -1.35,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-10",
+      "ticker": "NI",
+      "price_at_pick": 35.36,
+      "score": 93.0,
+      "next_day_close": 35.51,
+      "actual_return": 0.41,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-11",
+      "ticker": "CVX",
+      "price_at_pick": 147.84,
+      "score": 100.0,
+      "next_day_close": 146.42,
+      "actual_return": -0.96,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-12",
+      "ticker": "EA",
+      "price_at_pick": 161.66,
+      "score": 93.0,
+      "next_day_close": 156.72,
+      "actual_return": -3.06,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-13",
+      "ticker": "RJF",
+      "price_at_pick": 157.88,
+      "score": 93.0,
+      "next_day_close": 157.81,
+      "actual_return": -0.05,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-16",
+      "ticker": "DXCM",
+      "price_at_pick": 76.41,
+      "score": 93.0,
+      "next_day_close": 77.8,
+      "actual_return": 1.82,
+      "result": "win"
+    },
+    {
+      "date": "2024-12-17",
+      "ticker": "PAYC",
+      "price_at_pick": 230.68,
+      "score": 105.0,
+      "next_day_close": 207.43,
+      "actual_return": -10.08,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-18",
+      "ticker": "MA",
+      "price_at_pick": 516.21,
+      "score": 93.0,
+      "next_day_close": 519.51,
+      "actual_return": 0.64,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-19",
+      "ticker": "AXP",
+      "price_at_pick": 289.31,
+      "score": 93.0,
+      "next_day_close": 294.81,
+      "actual_return": 1.9,
+      "result": "win"
+    },
+    {
+      "date": "2024-12-20",
+      "ticker": "PVH",
+      "price_at_pick": 107.18,
+      "score": 105.0,
+      "next_day_close": 107.17,
+      "actual_return": -0.01,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-23",
+      "ticker": "PVH",
+      "price_at_pick": 107.17,
+      "score": 90.0,
+      "next_day_close": 108.35,
+      "actual_return": 1.1,
+      "result": "win"
+    },
+    {
+      "date": "2024-12-24",
+      "ticker": "WMT",
+      "price_at_pick": 91.8,
+      "score": 90.0,
+      "next_day_close": 91.91,
+      "actual_return": 0.12,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-26",
+      "ticker": "HRL",
+      "price_at_pick": 30.02,
+      "score": 85.0,
+      "next_day_close": 30.18,
+      "actual_return": 0.54,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-27",
+      "ticker": "MSFT",
+      "price_at_pick": 426.4,
+      "score": 85.0,
+      "next_day_close": 420.76,
+      "actual_return": -1.32,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-30",
+      "ticker": "AMZN",
+      "price_at_pick": 221.3,
+      "score": 90.0,
+      "next_day_close": 219.39,
+      "actual_return": -0.86,
+      "result": "loss"
+    },
+    {
+      "date": "2024-12-31",
+      "ticker": "AMZN",
+      "price_at_pick": 219.39,
+      "score": 90.0,
+      "next_day_close": 220.22,
+      "actual_return": 0.38,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-02",
+      "ticker": "AZO",
+      "price_at_pick": 3250.0,
+      "score": 85.0,
+      "next_day_close": 3268.78,
+      "actual_return": 0.58,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-03",
+      "ticker": "KR",
+      "price_at_pick": 59.94,
+      "score": 93.0,
+      "next_day_close": 59.12,
+      "actual_return": -1.37,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-06",
+      "ticker": "NFLX",
+      "price_at_pick": 88.18,
+      "score": 83.0,
+      "next_day_close": 87.92,
+      "actual_return": -0.29,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-07",
+      "ticker": "AVGO",
+      "price_at_pick": 226.59,
+      "score": 90.0,
+      "next_day_close": 227.26,
+      "actual_return": 0.29,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-08",
+      "ticker": "AVGO",
+      "price_at_pick": 227.26,
+      "score": 90.0,
+      "next_day_close": 222.3,
+      "actual_return": -2.18,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-10",
+      "ticker": "FOX",
+      "price_at_pick": 45.15,
+      "score": 90.0,
+      "next_day_close": 45.23,
+      "actual_return": 0.17,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-13",
+      "ticker": "FOXA",
+      "price_at_pick": 47.51,
+      "score": 90.0,
+      "next_day_close": 48.13,
+      "actual_return": 1.31,
+      "result": "win"
+    },
+    {
+      "date": "2025-01-14",
+      "ticker": "FOXA",
+      "price_at_pick": 48.13,
+      "score": 98.0,
+      "next_day_close": 47.85,
+      "actual_return": -0.57,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-15",
+      "ticker": "DRI",
+      "price_at_pick": 175.55,
+      "score": 90.0,
+      "next_day_close": 175.77,
+      "actual_return": 0.13,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-16",
+      "ticker": "DRI",
+      "price_at_pick": 175.77,
+      "score": 90.0,
+      "next_day_close": 176.44,
+      "actual_return": 0.38,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-17",
+      "ticker": "DLTR",
+      "price_at_pick": 72.07,
+      "score": 85.0,
+      "next_day_close": 73.76,
+      "actual_return": 2.34,
+      "result": "win"
+    },
+    {
+      "date": "2025-01-21",
+      "ticker": "FOX",
+      "price_at_pick": 44.94,
+      "score": 90.0,
+      "next_day_close": 45.07,
+      "actual_return": 0.31,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-22",
+      "ticker": "FOXA",
+      "price_at_pick": 47.46,
+      "score": 83.0,
+      "next_day_close": 47.87,
+      "actual_return": 0.87,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-23",
+      "ticker": "UAL",
+      "price_at_pick": 103.0,
+      "score": 75.0,
+      "next_day_close": 105.0,
+      "actual_return": 1.94,
+      "result": "win"
+    },
+    {
+      "date": "2025-01-24",
+      "ticker": "HON",
+      "price_at_pick": 203.3,
+      "score": 70.0,
+      "next_day_close": 207.16,
+      "actual_return": 1.9,
+      "result": "win"
+    },
+    {
+      "date": "2025-01-27",
+      "ticker": "GLW",
+      "price_at_pick": 48.52,
+      "score": 75.0,
+      "next_day_close": 50.18,
+      "actual_return": 3.43,
+      "result": "win"
+    },
+    {
+      "date": "2025-01-28",
+      "ticker": "IDXX",
+      "price_at_pick": 417.86,
+      "score": 80.0,
+      "next_day_close": 418.75,
+      "actual_return": 0.21,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-29",
+      "ticker": "SWKS",
+      "price_at_pick": 85.49,
+      "score": 100.0,
+      "next_day_close": 84.77,
+      "actual_return": -0.84,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-30",
+      "ticker": "APA",
+      "price_at_pick": 21.86,
+      "score": 90.0,
+      "next_day_close": 20.85,
+      "actual_return": -4.61,
+      "result": "loss"
+    },
+    {
+      "date": "2025-01-31",
+      "ticker": "ETR",
+      "price_at_pick": 78.34,
+      "score": 75.0,
+      "next_day_close": 79.27,
+      "actual_return": 1.18,
+      "result": "win"
+    },
+    {
+      "date": "2025-02-03",
+      "ticker": "EFX",
+      "price_at_pick": 264.7,
+      "score": 75.0,
+      "next_day_close": 263.96,
+      "actual_return": -0.28,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-04",
+      "ticker": "TDG",
+      "price_at_pick": 1223.53,
+      "score": 80.0,
+      "next_day_close": 1208.42,
+      "actual_return": -1.24,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-05",
+      "ticker": "MET",
+      "price_at_pick": 82.54,
+      "score": 78.0,
+      "next_day_close": 81.25,
+      "actual_return": -1.56,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-06",
+      "ticker": "TDG",
+      "price_at_pick": 1215.75,
+      "score": 90.0,
+      "next_day_close": 1241.94,
+      "actual_return": 2.15,
+      "result": "win"
+    },
+    {
+      "date": "2025-02-07",
+      "ticker": "FTV",
+      "price_at_pick": 59.27,
+      "score": 85.0,
+      "next_day_close": 60.33,
+      "actual_return": 1.78,
+      "result": "win"
+    },
+    {
+      "date": "2025-02-10",
+      "ticker": "AXP",
+      "price_at_pick": 306.99,
+      "score": 98.0,
+      "next_day_close": 306.31,
+      "actual_return": -0.22,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-11",
+      "ticker": "AXP",
+      "price_at_pick": 306.31,
+      "score": 90.0,
+      "next_day_close": 303.17,
+      "actual_return": -1.02,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-12",
+      "ticker": "GLW",
+      "price_at_pick": 50.94,
+      "score": 90.0,
+      "next_day_close": 51.04,
+      "actual_return": 0.19,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-13",
+      "ticker": "DXCM",
+      "price_at_pick": 84.09,
+      "score": 90.0,
+      "next_day_close": 89.07,
+      "actual_return": 5.92,
+      "result": "win"
+    },
+    {
+      "date": "2025-02-14",
+      "ticker": "CDW",
+      "price_at_pick": 185.64,
+      "score": 93.0,
+      "next_day_close": 188.65,
+      "actual_return": 1.62,
+      "result": "win"
+    },
+    {
+      "date": "2025-02-18",
+      "ticker": "TDY",
+      "price_at_pick": 496.89,
+      "score": 90.0,
+      "next_day_close": 502.07,
+      "actual_return": 1.04,
+      "result": "win"
+    },
+    {
+      "date": "2025-02-19",
+      "ticker": "IVZ",
+      "price_at_pick": 17.47,
+      "score": 90.0,
+      "next_day_close": 17.16,
+      "actual_return": -1.81,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-20",
+      "ticker": "AKAM",
+      "price_at_pick": 98.03,
+      "score": 105.0,
+      "next_day_close": 76.73,
+      "actual_return": -21.73,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-21",
+      "ticker": "DOV",
+      "price_at_pick": 197.86,
+      "score": 93.0,
+      "next_day_close": 196.8,
+      "actual_return": -0.54,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-24",
+      "ticker": "EMN",
+      "price_at_pick": 92.77,
+      "score": 90.0,
+      "next_day_close": 93.43,
+      "actual_return": 0.71,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-25",
+      "ticker": "HSIC",
+      "price_at_pick": 75.82,
+      "score": 90.0,
+      "next_day_close": 72.55,
+      "actual_return": -4.31,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-26",
+      "ticker": "VRSK",
+      "price_at_pick": 285.36,
+      "score": 100.0,
+      "next_day_close": 287.42,
+      "actual_return": 0.72,
+      "result": "loss"
+    },
+    {
+      "date": "2025-02-27",
+      "ticker": "XYL",
+      "price_at_pick": 127.22,
+      "score": 98.0,
+      "next_day_close": 129.31,
+      "actual_return": 1.64,
+      "result": "win"
+    },
+    {
+      "date": "2025-02-28",
+      "ticker": "GLW",
+      "price_at_pick": 49.41,
+      "score": 100.0,
+      "next_day_close": 47.53,
+      "actual_return": -3.79,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-03",
+      "ticker": "FTNT",
+      "price_at_pick": 106.54,
+      "score": 90.0,
+      "next_day_close": 106.48,
+      "actual_return": -0.06,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-04",
+      "ticker": "COST",
+      "price_at_pick": 1031.22,
+      "score": 98.0,
+      "next_day_close": 1042.04,
+      "actual_return": 1.05,
+      "result": "win"
+    },
+    {
+      "date": "2025-03-05",
+      "ticker": "BKNG",
+      "price_at_pick": 4870.08,
+      "score": 90.0,
+      "next_day_close": 4650.73,
+      "actual_return": -4.5,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-06",
+      "ticker": "ADP",
+      "price_at_pick": 293.48,
+      "score": 90.0,
+      "next_day_close": 297.35,
+      "actual_return": 1.32,
+      "result": "win"
+    },
+    {
+      "date": "2025-03-07",
+      "ticker": "TMUS",
+      "price_at_pick": 260.78,
+      "score": 90.0,
+      "next_day_close": 262.15,
+      "actual_return": 0.52,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-10",
+      "ticker": "WYNN",
+      "price_at_pick": 87.62,
+      "score": 90.0,
+      "next_day_close": 86.59,
+      "actual_return": -1.18,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-11",
+      "ticker": "EVRG",
+      "price_at_pick": 63.2,
+      "score": 93.0,
+      "next_day_close": 63.89,
+      "actual_return": 1.08,
+      "result": "win"
+    },
+    {
+      "date": "2025-03-12",
+      "ticker": "AMCR",
+      "price_at_pick": 48.32,
+      "score": 85.0,
+      "next_day_close": 46.86,
+      "actual_return": -3.02,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-13",
+      "ticker": "KDP",
+      "price_at_pick": 32.1,
+      "score": 90.0,
+      "next_day_close": 32.57,
+      "actual_return": 1.45,
+      "result": "win"
+    },
+    {
+      "date": "2025-03-14",
+      "ticker": "WYNN",
+      "price_at_pick": 85.4,
+      "score": 90.0,
+      "next_day_close": 85.64,
+      "actual_return": 0.28,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-17",
+      "ticker": "AON",
+      "price_at_pick": 389.34,
+      "score": 93.0,
+      "next_day_close": 388.42,
+      "actual_return": -0.24,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-18",
+      "ticker": "ECL",
+      "price_at_pick": 251.77,
+      "score": 90.0,
+      "next_day_close": 252.18,
+      "actual_return": 0.17,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-19",
+      "ticker": "PGR",
+      "price_at_pick": 256.67,
+      "score": 100.0,
+      "next_day_close": 257.92,
+      "actual_return": 0.49,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-20",
+      "ticker": "CHD",
+      "price_at_pick": 106.68,
+      "score": 90.0,
+      "next_day_close": 105.77,
+      "actual_return": -0.85,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-21",
+      "ticker": "EXC",
+      "price_at_pick": 42.29,
+      "score": 100.0,
+      "next_day_close": 42.08,
+      "actual_return": -0.5,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-24",
+      "ticker": "YUM",
+      "price_at_pick": 152.88,
+      "score": 90.0,
+      "next_day_close": 152.86,
+      "actual_return": -0.01,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-25",
+      "ticker": "MKC",
+      "price_at_pick": 78.19,
+      "score": 90.0,
+      "next_day_close": 78.81,
+      "actual_return": 0.8,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-26",
+      "ticker": "BF-B",
+      "price_at_pick": 33.07,
+      "score": 90.0,
+      "next_day_close": 33.37,
+      "actual_return": 0.91,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-27",
+      "ticker": "BF-B",
+      "price_at_pick": 33.37,
+      "score": 90.0,
+      "next_day_close": 33.31,
+      "actual_return": -0.2,
+      "result": "loss"
+    },
+    {
+      "date": "2025-03-28",
+      "ticker": "BMY",
+      "price_at_pick": 57.13,
+      "score": 85.0,
+      "next_day_close": 58.06,
+      "actual_return": 1.62,
+      "result": "win"
+    },
+    {
+      "date": "2025-03-31",
+      "ticker": "AMGN",
+      "price_at_pick": 302.07,
+      "score": 85.0,
+      "next_day_close": 297.58,
+      "actual_return": -1.49,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-01",
+      "ticker": "BF-B",
+      "price_at_pick": 32.42,
+      "score": 90.0,
+      "next_day_close": 33.39,
+      "actual_return": 3.01,
+      "result": "win"
+    },
+    {
+      "date": "2025-04-02",
+      "ticker": "MO",
+      "price_at_pick": 54.26,
+      "score": 85.0,
+      "next_day_close": 54.99,
+      "actual_return": 1.35,
+      "result": "win"
+    },
+    {
+      "date": "2025-04-03",
+      "ticker": "HSY",
+      "price_at_pick": 161.86,
+      "score": 90.0,
+      "next_day_close": 157.41,
+      "actual_return": -2.75,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-04",
+      "ticker": "MKTX",
+      "price_at_pick": 209.5,
+      "score": 100.0,
+      "next_day_close": 204.56,
+      "actual_return": -2.36,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-07",
+      "ticker": "SBAC",
+      "price_at_pick": 209.75,
+      "score": 90.0,
+      "next_day_close": 204.01,
+      "actual_return": -2.73,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-08",
+      "ticker": "CME",
+      "price_at_pick": 245.63,
+      "score": 90.0,
+      "next_day_close": 244.76,
+      "actual_return": -0.35,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-09",
+      "ticker": "ED",
+      "price_at_pick": 102.35,
+      "score": 90.0,
+      "next_day_close": 104.8,
+      "actual_return": 2.39,
+      "result": "win"
+    },
+    {
+      "date": "2025-04-10",
+      "ticker": "FAST",
+      "price_at_pick": 37.12,
+      "score": 80.0,
+      "next_day_close": 39.49,
+      "actual_return": 6.4,
+      "result": "win"
+    },
+    {
+      "date": "2025-04-11",
+      "ticker": "CMS",
+      "price_at_pick": 69.71,
+      "score": 75.0,
+      "next_day_close": 71.37,
+      "actual_return": 2.38,
+      "result": "win"
+    },
+    {
+      "date": "2025-04-14",
+      "ticker": "DRI",
+      "price_at_pick": 194.84,
+      "score": 65.0,
+      "next_day_close": 195.12,
+      "actual_return": 0.15,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-15",
+      "ticker": "DRI",
+      "price_at_pick": 195.12,
+      "score": 65.0,
+      "next_day_close": 193.47,
+      "actual_return": -0.85,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-16",
+      "ticker": "MOH",
+      "price_at_pick": 332.38,
+      "score": 85.0,
+      "next_day_close": 322.19,
+      "actual_return": -3.07,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-17",
+      "ticker": "CNC",
+      "price_at_pick": 60.7,
+      "score": 73.0,
+      "next_day_close": 58.01,
+      "actual_return": -4.43,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-21",
+      "ticker": "WRB",
+      "price_at_pick": 65.58,
+      "score": 90.0,
+      "next_day_close": 69.01,
+      "actual_return": 5.23,
+      "result": "win"
+    },
+    {
+      "date": "2025-04-22",
+      "ticker": "VZ",
+      "price_at_pick": 41.07,
+      "score": 93.0,
+      "next_day_close": 40.61,
+      "actual_return": -1.13,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-23",
+      "ticker": "ROL",
+      "price_at_pick": 54.28,
+      "score": 85.0,
+      "next_day_close": 54.81,
+      "actual_return": 0.98,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-24",
+      "ticker": "MCK",
+      "price_at_pick": 685.72,
+      "score": 90.0,
+      "next_day_close": 692.26,
+      "actual_return": 0.95,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-25",
+      "ticker": "HRL",
+      "price_at_pick": 28.69,
+      "score": 75.0,
+      "next_day_close": 28.52,
+      "actual_return": -0.61,
+      "result": "loss"
+    },
+    {
+      "date": "2025-04-28",
+      "ticker": "KR",
+      "price_at_pick": 68.96,
+      "score": 60.0,
+      "next_day_close": 69.95,
+      "actual_return": 1.44,
+      "result": "win"
+    },
+    {
+      "date": "2025-04-29",
+      "ticker": "BMY",
+      "price_at_pick": 47.36,
+      "score": 63.0,
+      "next_day_close": 48.3,
+      "actual_return": 1.99,
+      "result": "win"
+    },
+    {
+      "date": "2025-04-30",
+      "ticker": "ALGN",
+      "price_at_pick": 173.3,
+      "score": 75.0,
+      "next_day_close": 176.74,
+      "actual_return": 1.98,
+      "result": "win"
+    },
+    {
+      "date": "2025-05-01",
+      "ticker": "KDP",
+      "price_at_pick": 33.23,
+      "score": 75.0,
+      "next_day_close": 33.59,
+      "actual_return": 1.09,
+      "result": "win"
+    },
+    {
+      "date": "2025-05-02",
+      "ticker": "LMT",
+      "price_at_pick": 460.23,
+      "score": 78.0,
+      "next_day_close": 459.02,
+      "actual_return": -0.26,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-05",
+      "ticker": "NEM",
+      "price_at_pick": 52.36,
+      "score": 90.0,
+      "next_day_close": 53.91,
+      "actual_return": 2.96,
+      "result": "win"
+    },
+    {
+      "date": "2025-05-06",
+      "ticker": "FAST",
+      "price_at_pick": 38.65,
+      "score": 90.0,
+      "next_day_close": 38.65,
+      "actual_return": 0.0,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-07",
+      "ticker": "GD",
+      "price_at_pick": 265.82,
+      "score": 90.0,
+      "next_day_close": 268.31,
+      "actual_return": 0.94,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-08",
+      "ticker": "AMT",
+      "price_at_pick": 212.22,
+      "score": 90.0,
+      "next_day_close": 214.26,
+      "actual_return": 0.96,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-09",
+      "ticker": "EXC",
+      "price_at_pick": 43.66,
+      "score": 85.0,
+      "next_day_close": 42.49,
+      "actual_return": -2.68,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-12",
+      "ticker": "MCD",
+      "price_at_pick": 304.87,
+      "score": 93.0,
+      "next_day_close": 301.71,
+      "actual_return": -1.04,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-13",
+      "ticker": "EQR",
+      "price_at_pick": 67.41,
+      "score": 78.0,
+      "next_day_close": 66.9,
+      "actual_return": -0.76,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-14",
+      "ticker": "DGX",
+      "price_at_pick": 170.16,
+      "score": 90.0,
+      "next_day_close": 174.04,
+      "actual_return": 2.28,
+      "result": "win"
+    },
+    {
+      "date": "2025-05-15",
+      "ticker": "CNP",
+      "price_at_pick": 36.61,
+      "score": 85.0,
+      "next_day_close": 36.89,
+      "actual_return": 0.78,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-16",
+      "ticker": "LMT",
+      "price_at_pick": 455.87,
+      "score": 85.0,
+      "next_day_close": 460.48,
+      "actual_return": 1.01,
+      "result": "win"
+    },
+    {
+      "date": "2025-05-19",
+      "ticker": "AAPL",
+      "price_at_pick": 208.15,
+      "score": 70.0,
+      "next_day_close": 206.23,
+      "actual_return": -0.92,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-20",
+      "ticker": "CPRT",
+      "price_at_pick": 61.62,
+      "score": 80.0,
+      "next_day_close": 61.09,
+      "actual_return": -0.86,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-21",
+      "ticker": "TTWO",
+      "price_at_pick": 226.76,
+      "score": 105.0,
+      "next_day_close": 226.01,
+      "actual_return": -0.33,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-22",
+      "ticker": "EXR",
+      "price_at_pick": 139.93,
+      "score": 100.0,
+      "next_day_close": 140.85,
+      "actual_return": 0.66,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-23",
+      "ticker": "EQIX",
+      "price_at_pick": 848.43,
+      "score": 90.0,
+      "next_day_close": 861.55,
+      "actual_return": 1.55,
+      "result": "win"
+    },
+    {
+      "date": "2025-05-27",
+      "ticker": "EA",
+      "price_at_pick": 146.28,
+      "score": 93.0,
+      "next_day_close": 146.44,
+      "actual_return": 0.11,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-28",
+      "ticker": "CNP",
+      "price_at_pick": 36.56,
+      "score": 90.0,
+      "next_day_close": 36.49,
+      "actual_return": -0.19,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-29",
+      "ticker": "MLM",
+      "price_at_pick": 545.55,
+      "score": 85.0,
+      "next_day_close": 544.63,
+      "actual_return": -0.17,
+      "result": "loss"
+    },
+    {
+      "date": "2025-05-30",
+      "ticker": "VMC",
+      "price_at_pick": 263.68,
+      "score": 93.0,
+      "next_day_close": 262.0,
+      "actual_return": -0.64,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-02",
+      "ticker": "GM",
+      "price_at_pick": 47.21,
+      "score": 98.0,
+      "next_day_close": 48.57,
+      "actual_return": 2.87,
+      "result": "win"
+    },
+    {
+      "date": "2025-06-03",
+      "ticker": "AME",
+      "price_at_pick": 176.84,
+      "score": 105.0,
+      "next_day_close": 176.34,
+      "actual_return": -0.28,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-04",
+      "ticker": "AMP",
+      "price_at_pick": 502.66,
+      "score": 98.0,
+      "next_day_close": 503.52,
+      "actual_return": 0.17,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-05",
+      "ticker": "ACN",
+      "price_at_pick": 313.81,
+      "score": 98.0,
+      "next_day_close": 316.07,
+      "actual_return": 0.72,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-06",
+      "ticker": "BWA",
+      "price_at_pick": 31.95,
+      "score": 90.0,
+      "next_day_close": 32.29,
+      "actual_return": 1.05,
+      "result": "win"
+    },
+    {
+      "date": "2025-06-09",
+      "ticker": "EXR",
+      "price_at_pick": 145.4,
+      "score": 93.0,
+      "next_day_close": 146.54,
+      "actual_return": 0.78,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-10",
+      "ticker": "CAH",
+      "price_at_pick": 151.74,
+      "score": 98.0,
+      "next_day_close": 152.19,
+      "actual_return": 0.29,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-11",
+      "ticker": "MNST",
+      "price_at_pick": 62.59,
+      "score": 90.0,
+      "next_day_close": 63.69,
+      "actual_return": 1.76,
+      "result": "win"
+    },
+    {
+      "date": "2025-06-12",
+      "ticker": "COST",
+      "price_at_pick": 998.54,
+      "score": 85.0,
+      "next_day_close": 986.1,
+      "actual_return": -1.25,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-13",
+      "ticker": "VRSK",
+      "price_at_pick": 308.45,
+      "score": 85.0,
+      "next_day_close": 307.52,
+      "actual_return": -0.3,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-16",
+      "ticker": "HCA",
+      "price_at_pick": 367.39,
+      "score": 90.0,
+      "next_day_close": 371.23,
+      "actual_return": 1.05,
+      "result": "win"
+    },
+    {
+      "date": "2025-06-17",
+      "ticker": "FOXA",
+      "price_at_pick": 53.57,
+      "score": 90.0,
+      "next_day_close": 54.19,
+      "actual_return": 1.16,
+      "result": "win"
+    },
+    {
+      "date": "2025-06-18",
+      "ticker": "DXCM",
+      "price_at_pick": 81.01,
+      "score": 90.0,
+      "next_day_close": 80.0,
+      "actual_return": -1.25,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-20",
+      "ticker": "HRL",
+      "price_at_pick": 29.37,
+      "score": 105.0,
+      "next_day_close": 29.8,
+      "actual_return": 1.45,
+      "result": "win"
+    },
+    {
+      "date": "2025-06-23",
+      "ticker": "ES",
+      "price_at_pick": 61.31,
+      "score": 93.0,
+      "next_day_close": 61.77,
+      "actual_return": 0.74,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-24",
+      "ticker": "EBAY",
+      "price_at_pick": 73.61,
+      "score": 90.0,
+      "next_day_close": 73.78,
+      "actual_return": 0.23,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-25",
+      "ticker": "ULTA",
+      "price_at_pick": 459.09,
+      "score": 90.0,
+      "next_day_close": 457.66,
+      "actual_return": -0.31,
+      "result": "loss"
+    },
+    {
+      "date": "2025-06-26",
+      "ticker": "IRM",
+      "price_at_pick": 99.05,
+      "score": 85.0,
+      "next_day_close": 100.42,
+      "actual_return": 1.38,
+      "result": "win"
+    },
+    {
+      "date": "2025-06-27",
+      "ticker": "AIG",
+      "price_at_pick": 83.66,
+      "score": 100.0,
+      "next_day_close": 84.65,
+      "actual_return": 1.18,
+      "result": "win"
+    },
+    {
+      "date": "2025-06-30",
+      "ticker": "DE",
+      "price_at_pick": 504.97,
+      "score": 93.0,
+      "next_day_close": 504.84,
+      "actual_return": -0.03,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-01",
+      "ticker": "WY",
+      "price_at_pick": 25.56,
+      "score": 93.0,
+      "next_day_close": 26.01,
+      "actual_return": 1.75,
+      "result": "win"
+    },
+    {
+      "date": "2025-07-02",
+      "ticker": "PM",
+      "price_at_pick": 172.7,
+      "score": 75.0,
+      "next_day_close": 175.61,
+      "actual_return": 1.69,
+      "result": "win"
+    },
+    {
+      "date": "2025-07-03",
+      "ticker": "LLY",
+      "price_at_pick": 776.52,
+      "score": 85.0,
+      "next_day_close": 768.76,
+      "actual_return": -1.0,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-07",
+      "ticker": "EOG",
+      "price_at_pick": 116.39,
+      "score": 90.0,
+      "next_day_close": 120.61,
+      "actual_return": 3.63,
+      "result": "win"
+    },
+    {
+      "date": "2025-07-08",
+      "ticker": "LH",
+      "price_at_pick": 255.46,
+      "score": 85.0,
+      "next_day_close": 257.07,
+      "actual_return": 0.63,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-09",
+      "ticker": "ADSK",
+      "price_at_pick": 307.27,
+      "score": 75.0,
+      "next_day_close": 286.11,
+      "actual_return": -6.89,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-10",
+      "ticker": "TTWO",
+      "price_at_pick": 235.33,
+      "score": 93.0,
+      "next_day_close": 233.92,
+      "actual_return": -0.6,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-11",
+      "ticker": "DE",
+      "price_at_pick": 508.87,
+      "score": 75.0,
+      "next_day_close": 504.1,
+      "actual_return": -0.94,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-14",
+      "ticker": "MU",
+      "price_at_pick": 118.49,
+      "score": 93.0,
+      "next_day_close": 119.99,
+      "actual_return": 1.26,
+      "result": "win"
+    },
+    {
+      "date": "2025-07-15",
+      "ticker": "KMI",
+      "price_at_pick": 27.08,
+      "score": 93.0,
+      "next_day_close": 27.05,
+      "actual_return": -0.11,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-16",
+      "ticker": "BAC",
+      "price_at_pick": 45.28,
+      "score": 98.0,
+      "next_day_close": 46.26,
+      "actual_return": 2.15,
+      "result": "win"
+    },
+    {
+      "date": "2025-07-17",
+      "ticker": "DG",
+      "price_at_pick": 108.11,
+      "score": 90.0,
+      "next_day_close": 108.96,
+      "actual_return": 0.79,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-18",
+      "ticker": "EW",
+      "price_at_pick": 76.49,
+      "score": 98.0,
+      "next_day_close": 76.56,
+      "actual_return": 0.09,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-21",
+      "ticker": "NFLX",
+      "price_at_pick": 123.33,
+      "score": 93.0,
+      "next_day_close": 119.01,
+      "actual_return": -3.5,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-22",
+      "ticker": "ADI",
+      "price_at_pick": 233.02,
+      "score": 100.0,
+      "next_day_close": 225.68,
+      "actual_return": -3.15,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-23",
+      "ticker": "NDAQ",
+      "price_at_pick": 87.77,
+      "score": 100.0,
+      "next_day_close": 92.96,
+      "actual_return": 5.91,
+      "result": "win"
+    },
+    {
+      "date": "2025-07-24",
+      "ticker": "VLO",
+      "price_at_pick": 137.49,
+      "score": 105.0,
+      "next_day_close": 139.09,
+      "actual_return": 1.16,
+      "result": "win"
+    },
+    {
+      "date": "2025-07-25",
+      "ticker": "BBWI",
+      "price_at_pick": 30.69,
+      "score": 90.0,
+      "next_day_close": 30.16,
+      "actual_return": -1.74,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-28",
+      "ticker": "COF",
+      "price_at_pick": 211.98,
+      "score": 100.0,
+      "next_day_close": 211.62,
+      "actual_return": -0.17,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-29",
+      "ticker": "FMC",
+      "price_at_pick": 41.11,
+      "score": 100.0,
+      "next_day_close": 40.38,
+      "actual_return": -1.76,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-30",
+      "ticker": "AMCR",
+      "price_at_pick": 47.03,
+      "score": 100.0,
+      "next_day_close": 46.14,
+      "actual_return": -1.89,
+      "result": "loss"
+    },
+    {
+      "date": "2025-07-31",
+      "ticker": "AAPL",
+      "price_at_pick": 206.94,
+      "score": 90.0,
+      "next_day_close": 201.77,
+      "actual_return": -2.5,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-01",
+      "ticker": "REGN",
+      "price_at_pick": 556.65,
+      "score": 100.0,
+      "next_day_close": 569.27,
+      "actual_return": 2.27,
+      "result": "win"
+    },
+    {
+      "date": "2025-08-04",
+      "ticker": "KLAC",
+      "price_at_pick": 910.92,
+      "score": 85.0,
+      "next_day_close": 878.87,
+      "actual_return": -3.52,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-05",
+      "ticker": "ROK",
+      "price_at_pick": 342.23,
+      "score": 100.0,
+      "next_day_close": 325.09,
+      "actual_return": -5.01,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-06",
+      "ticker": "KIM",
+      "price_at_pick": 20.6,
+      "score": 100.0,
+      "next_day_close": 20.46,
+      "actual_return": -0.66,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-07",
+      "ticker": "AES",
+      "price_at_pick": 12.54,
+      "score": 90.0,
+      "next_day_close": 12.8,
+      "actual_return": 2.1,
+      "result": "win"
+    },
+    {
+      "date": "2025-08-08",
+      "ticker": "AES",
+      "price_at_pick": 12.8,
+      "score": 90.0,
+      "next_day_close": 12.49,
+      "actual_return": -2.44,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-11",
+      "ticker": "IQV",
+      "price_at_pick": 180.09,
+      "score": 90.0,
+      "next_day_close": 185.91,
+      "actual_return": 3.23,
+      "result": "win"
+    },
+    {
+      "date": "2025-08-12",
+      "ticker": "BKR",
+      "price_at_pick": 42.15,
+      "score": 90.0,
+      "next_day_close": 42.49,
+      "actual_return": 0.8,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-13",
+      "ticker": "RJF",
+      "price_at_pick": 162.82,
+      "score": 105.0,
+      "next_day_close": 163.64,
+      "actual_return": 0.51,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-14",
+      "ticker": "BF-B",
+      "price_at_pick": 29.44,
+      "score": 90.0,
+      "next_day_close": 29.68,
+      "actual_return": 0.83,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-15",
+      "ticker": "TGT",
+      "price_at_pick": 100.71,
+      "score": 93.0,
+      "next_day_close": 102.6,
+      "actual_return": 1.87,
+      "result": "win"
+    },
+    {
+      "date": "2025-08-18",
+      "ticker": "NDAQ",
+      "price_at_pick": 93.79,
+      "score": 90.0,
+      "next_day_close": 93.29,
+      "actual_return": -0.54,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-19",
+      "ticker": "EL",
+      "price_at_pick": 88.91,
+      "score": 100.0,
+      "next_day_close": 85.65,
+      "actual_return": -3.67,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-20",
+      "ticker": "CDNS",
+      "price_at_pick": 345.45,
+      "score": 90.0,
+      "next_day_close": 347.57,
+      "actual_return": 0.61,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-21",
+      "ticker": "EL",
+      "price_at_pick": 86.79,
+      "score": 93.0,
+      "next_day_close": 90.26,
+      "actual_return": 4.0,
+      "result": "win"
+    },
+    {
+      "date": "2025-08-22",
+      "ticker": "IDXX",
+      "price_at_pick": 645.55,
+      "score": 90.0,
+      "next_day_close": 641.35,
+      "actual_return": -0.65,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-25",
+      "ticker": "ALL",
+      "price_at_pick": 199.14,
+      "score": 90.0,
+      "next_day_close": 200.22,
+      "actual_return": 0.54,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-26",
+      "ticker": "CBOE",
+      "price_at_pick": 242.16,
+      "score": 100.0,
+      "next_day_close": 237.36,
+      "actual_return": -1.98,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-27",
+      "ticker": "BR",
+      "price_at_pick": 256.06,
+      "score": 90.0,
+      "next_day_close": 254.99,
+      "actual_return": -0.42,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-28",
+      "ticker": "BR",
+      "price_at_pick": 254.99,
+      "score": 90.0,
+      "next_day_close": 253.55,
+      "actual_return": -0.56,
+      "result": "loss"
+    },
+    {
+      "date": "2025-08-29",
+      "ticker": "FFIV",
+      "price_at_pick": 313.14,
+      "score": 93.0,
+      "next_day_close": 306.73,
+      "actual_return": -2.05,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-02",
+      "ticker": "EA",
+      "price_at_pick": 171.13,
+      "score": 90.0,
+      "next_day_close": 167.54,
+      "actual_return": -2.09,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-03",
+      "ticker": "BDX",
+      "price_at_pick": 146.52,
+      "score": 98.0,
+      "next_day_close": 147.8,
+      "actual_return": 0.87,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-04",
+      "ticker": "ECL",
+      "price_at_pick": 273.51,
+      "score": 93.0,
+      "next_day_close": 272.14,
+      "actual_return": -0.5,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-05",
+      "ticker": "BA",
+      "price_at_pick": 229.61,
+      "score": 93.0,
+      "next_day_close": 230.95,
+      "actual_return": 0.58,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-08",
+      "ticker": "VZ",
+      "price_at_pick": 41.86,
+      "score": 100.0,
+      "next_day_close": 42.1,
+      "actual_return": 0.58,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-09",
+      "ticker": "TMO",
+      "price_at_pick": 481.14,
+      "score": 90.0,
+      "next_day_close": 475.28,
+      "actual_return": -1.22,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-10",
+      "ticker": "ZBH",
+      "price_at_pick": 101.78,
+      "score": 93.0,
+      "next_day_close": 103.73,
+      "actual_return": 1.92,
+      "result": "win"
+    },
+    {
+      "date": "2025-09-11",
+      "ticker": "VTRS",
+      "price_at_pick": 9.97,
+      "score": 90.0,
+      "next_day_close": 9.76,
+      "actual_return": -2.06,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-12",
+      "ticker": "ADI",
+      "price_at_pick": 243.58,
+      "score": 90.0,
+      "next_day_close": 243.29,
+      "actual_return": -0.12,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-15",
+      "ticker": "DVN",
+      "price_at_pick": 33.38,
+      "score": 93.0,
+      "next_day_close": 34.57,
+      "actual_return": 3.55,
+      "result": "win"
+    },
+    {
+      "date": "2025-09-16",
+      "ticker": "MET",
+      "price_at_pick": 77.61,
+      "score": 100.0,
+      "next_day_close": 77.56,
+      "actual_return": -0.06,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-17",
+      "ticker": "WELL",
+      "price_at_pick": 164.68,
+      "score": 100.0,
+      "next_day_close": 165.3,
+      "actual_return": 0.37,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-18",
+      "ticker": "MET",
+      "price_at_pick": 77.94,
+      "score": 93.0,
+      "next_day_close": 78.03,
+      "actual_return": 0.11,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-19",
+      "ticker": "PSX",
+      "price_at_pick": 127.58,
+      "score": 105.0,
+      "next_day_close": 127.43,
+      "actual_return": -0.12,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-22",
+      "ticker": "AZO",
+      "price_at_pick": 4121.0,
+      "score": 100.0,
+      "next_day_close": 4120.0,
+      "actual_return": -0.02,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-23",
+      "ticker": "AZO",
+      "price_at_pick": 4120.0,
+      "score": 90.0,
+      "next_day_close": 4176.89,
+      "actual_return": 1.38,
+      "result": "win"
+    },
+    {
+      "date": "2025-09-24",
+      "ticker": "FITB",
+      "price_at_pick": 44.4,
+      "score": 85.0,
+      "next_day_close": 44.5,
+      "actual_return": 0.24,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-25",
+      "ticker": "SYY",
+      "price_at_pick": 80.0,
+      "score": 93.0,
+      "next_day_close": 80.81,
+      "actual_return": 1.01,
+      "result": "win"
+    },
+    {
+      "date": "2025-09-26",
+      "ticker": "ADM",
+      "price_at_pick": 59.64,
+      "score": 90.0,
+      "next_day_close": 59.36,
+      "actual_return": -0.48,
+      "result": "loss"
+    },
+    {
+      "date": "2025-09-29",
+      "ticker": "BIIB",
+      "price_at_pick": 138.52,
+      "score": 90.0,
+      "next_day_close": 140.08,
+      "actual_return": 1.13,
+      "result": "win"
+    },
+    {
+      "date": "2025-09-30",
+      "ticker": "VRSN",
+      "price_at_pick": 277.68,
+      "score": 93.0,
+      "next_day_close": 273.06,
+      "actual_return": -1.66,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-01",
+      "ticker": "EFX",
+      "price_at_pick": 252.56,
+      "score": 90.0,
+      "next_day_close": 231.18,
+      "actual_return": -8.47,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-02",
+      "ticker": "NTAP",
+      "price_at_pick": 118.97,
+      "score": 85.0,
+      "next_day_close": 118.14,
+      "actual_return": -0.69,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-03",
+      "ticker": "SBNY",
+      "price_at_pick": 0.68,
+      "score": 90.0,
+      "next_day_close": 0.65,
+      "actual_return": -4.41,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-06",
+      "ticker": "FITB",
+      "price_at_pick": 43.42,
+      "score": 90.0,
+      "next_day_close": 43.31,
+      "actual_return": -0.25,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-07",
+      "ticker": "JPM",
+      "price_at_pick": 306.31,
+      "score": 90.0,
+      "next_day_close": 302.66,
+      "actual_return": -1.19,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-08",
+      "ticker": "PVH",
+      "price_at_pick": 84.19,
+      "score": 90.0,
+      "next_day_close": 80.66,
+      "actual_return": -4.2,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-09",
+      "ticker": "ENPH",
+      "price_at_pick": 36.71,
+      "score": 75.0,
+      "next_day_close": 34.27,
+      "actual_return": -6.65,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-10",
+      "ticker": "GE",
+      "price_at_pick": 290.73,
+      "score": 90.0,
+      "next_day_close": 296.76,
+      "actual_return": 2.07,
+      "result": "win"
+    },
+    {
+      "date": "2025-10-13",
+      "ticker": "GS",
+      "price_at_pick": 778.8,
+      "score": 100.0,
+      "next_day_close": 762.94,
+      "actual_return": -2.04,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-14",
+      "ticker": "GS",
+      "price_at_pick": 762.94,
+      "score": 90.0,
+      "next_day_close": 760.14,
+      "actual_return": -0.37,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-15",
+      "ticker": "GS",
+      "price_at_pick": 760.14,
+      "score": 90.0,
+      "next_day_close": 750.4,
+      "actual_return": -1.28,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-16",
+      "ticker": "AAPL",
+      "price_at_pick": 246.98,
+      "score": 90.0,
+      "next_day_close": 251.81,
+      "actual_return": 1.96,
+      "result": "win"
+    },
+    {
+      "date": "2025-10-17",
+      "ticker": "CME",
+      "price_at_pick": 260.48,
+      "score": 85.0,
+      "next_day_close": 260.17,
+      "actual_return": -0.12,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-20",
+      "ticker": "AFL",
+      "price_at_pick": 107.63,
+      "score": 85.0,
+      "next_day_close": 107.05,
+      "actual_return": -0.54,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-21",
+      "ticker": "LLY",
+      "price_at_pick": 797.07,
+      "score": 90.0,
+      "next_day_close": 809.89,
+      "actual_return": 1.61,
+      "result": "win"
+    },
+    {
+      "date": "2025-10-22",
+      "ticker": "PNR",
+      "price_at_pick": 108.82,
+      "score": 100.0,
+      "next_day_close": 110.17,
+      "actual_return": 1.24,
+      "result": "win"
+    },
+    {
+      "date": "2025-10-23",
+      "ticker": "MDT",
+      "price_at_pick": 93.52,
+      "score": 93.0,
+      "next_day_close": 92.99,
+      "actual_return": -0.57,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-24",
+      "ticker": "MLM",
+      "price_at_pick": 619.64,
+      "score": 85.0,
+      "next_day_close": 615.26,
+      "actual_return": -0.71,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-27",
+      "ticker": "AEP",
+      "price_at_pick": 114.57,
+      "score": 90.0,
+      "next_day_close": 113.31,
+      "actual_return": -1.1,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-28",
+      "ticker": "GRMN",
+      "price_at_pick": 246.09,
+      "score": 100.0,
+      "next_day_close": 217.84,
+      "actual_return": -11.48,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-29",
+      "ticker": "UNH",
+      "price_at_pick": 350.17,
+      "score": 93.0,
+      "next_day_close": 339.81,
+      "actual_return": -2.96,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-30",
+      "ticker": "CMS",
+      "price_at_pick": 72.12,
+      "score": 100.0,
+      "next_day_close": 72.46,
+      "actual_return": 0.46,
+      "result": "loss"
+    },
+    {
+      "date": "2025-10-31",
+      "ticker": "ATO",
+      "price_at_pick": 169.8,
+      "score": 100.0,
+      "next_day_close": 170.77,
+      "actual_return": 0.57,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-03",
+      "ticker": "PNW",
+      "price_at_pick": 88.58,
+      "score": 90.0,
+      "next_day_close": 88.49,
+      "actual_return": -0.1,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-04",
+      "ticker": "CMS",
+      "price_at_pick": 71.85,
+      "score": 90.0,
+      "next_day_close": 71.49,
+      "actual_return": -0.51,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-05",
+      "ticker": "CVS",
+      "price_at_pick": 77.91,
+      "score": 85.0,
+      "next_day_close": 78.02,
+      "actual_return": 0.14,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-06",
+      "ticker": "EVRG",
+      "price_at_pick": 74.24,
+      "score": 90.0,
+      "next_day_close": 74.27,
+      "actual_return": 0.04,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-07",
+      "ticker": "VTRS",
+      "price_at_pick": 9.92,
+      "score": 98.0,
+      "next_day_close": 9.97,
+      "actual_return": 0.49,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-10",
+      "ticker": "IRM",
+      "price_at_pick": 101.27,
+      "score": 93.0,
+      "next_day_close": 100.1,
+      "actual_return": -1.15,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-11",
+      "ticker": "BBY",
+      "price_at_pick": 76.67,
+      "score": 85.0,
+      "next_day_close": 76.7,
+      "actual_return": 0.04,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-12",
+      "ticker": "EQIX",
+      "price_at_pick": 803.96,
+      "score": 83.0,
+      "next_day_close": 777.57,
+      "actual_return": -3.28,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-13",
+      "ticker": "MTD",
+      "price_at_pick": 1412.18,
+      "score": 90.0,
+      "next_day_close": 1403.08,
+      "actual_return": -0.64,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-14",
+      "ticker": "SRE",
+      "price_at_pick": 91.33,
+      "score": 93.0,
+      "next_day_close": 91.53,
+      "actual_return": 0.22,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-17",
+      "ticker": "HAS",
+      "price_at_pick": 75.81,
+      "score": 90.0,
+      "next_day_close": 74.82,
+      "actual_return": -1.3,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-18",
+      "ticker": "AMAT",
+      "price_at_pick": 224.4,
+      "score": 90.0,
+      "next_day_close": 234.38,
+      "actual_return": 4.45,
+      "result": "win"
+    },
+    {
+      "date": "2025-11-19",
+      "ticker": "AAPL",
+      "price_at_pick": 268.31,
+      "score": 90.0,
+      "next_day_close": 266.0,
+      "actual_return": -0.86,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-20",
+      "ticker": "CAT",
+      "price_at_pick": 544.86,
+      "score": 90.0,
+      "next_day_close": 549.15,
+      "actual_return": 0.79,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-21",
+      "ticker": "AVY",
+      "price_at_pick": 168.69,
+      "score": 90.0,
+      "next_day_close": 165.85,
+      "actual_return": -1.68,
+      "result": "loss"
+    },
+    {
+      "date": "2025-11-24",
+      "ticker": "TER",
+      "price_at_pick": 165.9,
+      "score": 98.0,
+      "next_day_close": 167.6,
+      "actual_return": 1.02,
+      "result": "win"
+    },
+    {
+      "date": "2025-11-25",
+      "ticker": "MU",
+      "price_at_pick": 224.44,
+      "score": 85.0,
+      "next_day_close": 230.17,
+      "actual_return": 2.55,
+      "result": "win"
+    },
+    {
+      "date": "2025-11-26",
+      "ticker": "HAL",
+      "price_at_pick": 25.5,
+      "score": 75.0,
+      "next_day_close": 25.93,
+      "actual_return": 1.67,
+      "result": "win"
+    },
+    {
+      "date": "2025-11-28",
+      "ticker": "FOX",
+      "price_at_pick": 57.95,
+      "score": 75.0,
+      "next_day_close": 59.02,
+      "actual_return": 1.85,
+      "result": "win"
+    },
+    {
+      "date": "2025-12-01",
+      "ticker": "D",
+      "price_at_pick": 59.49,
+      "score": 78.0,
+      "next_day_close": 59.05,
+      "actual_return": -0.74,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-02",
+      "ticker": "CINF",
+      "price_at_pick": 162.92,
+      "score": 98.0,
+      "next_day_close": 161.98,
+      "actual_return": -0.57,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-03",
+      "ticker": "AIZ",
+      "price_at_pick": 221.43,
+      "score": 98.0,
+      "next_day_close": 223.36,
+      "actual_return": 0.87,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-04",
+      "ticker": "DGX",
+      "price_at_pick": 183.34,
+      "score": 90.0,
+      "next_day_close": 181.68,
+      "actual_return": -0.91,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-05",
+      "ticker": "SEE",
+      "price_at_pick": 41.54,
+      "score": 98.0,
+      "next_day_close": 41.37,
+      "actual_return": -0.41,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-08",
+      "ticker": "GILD",
+      "price_at_pick": 119.71,
+      "score": 93.0,
+      "next_day_close": 117.91,
+      "actual_return": -1.51,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-09",
+      "ticker": "SEE",
+      "price_at_pick": 41.27,
+      "score": 90.0,
+      "next_day_close": 41.45,
+      "actual_return": 0.43,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-10",
+      "ticker": "L",
+      "price_at_pick": 102.55,
+      "score": 90.0,
+      "next_day_close": 104.59,
+      "actual_return": 1.99,
+      "result": "win"
+    },
+    {
+      "date": "2025-12-11",
+      "ticker": "WM",
+      "price_at_pick": 211.21,
+      "score": 90.0,
+      "next_day_close": 214.76,
+      "actual_return": 1.68,
+      "result": "win"
+    },
+    {
+      "date": "2025-12-12",
+      "ticker": "MDT",
+      "price_at_pick": 99.14,
+      "score": 90.0,
+      "next_day_close": 97.85,
+      "actual_return": -1.3,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-15",
+      "ticker": "ISRG",
+      "price_at_pick": 559.52,
+      "score": 100.0,
+      "next_day_close": 554.58,
+      "actual_return": -0.88,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-16",
+      "ticker": "BIIB",
+      "price_at_pick": 171.5,
+      "score": 98.0,
+      "next_day_close": 172.1,
+      "actual_return": 0.35,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-17",
+      "ticker": "DHI",
+      "price_at_pick": 151.57,
+      "score": 98.0,
+      "next_day_close": 150.97,
+      "actual_return": -0.39,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-18",
+      "ticker": "BIIB",
+      "price_at_pick": 169.91,
+      "score": 93.0,
+      "next_day_close": 174.8,
+      "actual_return": 2.88,
+      "result": "win"
+    },
+    {
+      "date": "2025-12-19",
+      "ticker": "GOOG",
+      "price_at_pick": 308.39,
+      "score": 105.0,
+      "next_day_close": 311.11,
+      "actual_return": 0.88,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-22",
+      "ticker": "AMAT",
+      "price_at_pick": 258.69,
+      "score": 90.0,
+      "next_day_close": 259.91,
+      "actual_return": 0.47,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-23",
+      "ticker": "LOW",
+      "price_at_pick": 241.07,
+      "score": 90.0,
+      "next_day_close": 241.91,
+      "actual_return": 0.35,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-24",
+      "ticker": "HOLX",
+      "price_at_pick": 74.5,
+      "score": 90.0,
+      "next_day_close": 74.5,
+      "actual_return": 0.0,
+      "result": "loss"
+    },
+    {
+      "date": "2025-12-26",
+      "ticker": "COP",
+      "price_at_pick": 90.83,
+      "score": 90.0,
+      "next_day_close": 91.91,
+      "actual_return": 1.19,
+      "result": "win"
+    },
+    {
+      "date": "2025-12-29",
+      "ticker": "NXPI",
+      "price_at_pick": 220.46,
+      "score": 90.0,
+      "next_day_close": 219.98,
+      "actual_return": -0.22,
+      "result": "loss"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+name: Daily Stock Pick
+
+on:
+  schedule:
+    # Run at 9:00 AM ET (14:00 UTC) on weekdays
+    - cron: "0 14 * * 1-5"
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+          cache-dependency-path: strategy/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r strategy/requirements.txt lxml
+
+      - name: Update results for past picks
+        working-directory: strategy
+        run: python3 -c "from picker import update_results; update_results()"
+
+      - name: Run stock picker
+        working-directory: strategy
+        run: python3 picker.py
+
+      - name: Copy data to site
+        run: cp data/picks.json data/backtest.json site/src/data/
+
+      - name: Commit and push
+        run: |
+          git config user.name "Stock Picker Bot"
+          git config user.email "bot@stockpicker.dev"
+          git add data/ site/src/data/
+          git diff --staged --quiet || git commit -m "Daily pick for $(date +%Y-%m-%d)"
+          git push
