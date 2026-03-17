@@ -10,5 +10,16 @@
     "result": null,
     "actual_return": null,
     "reasoning": "Oversold RSI with intact uptrend and volume confirmation suggest a near-term bounce."
+  },
+  {
+    "date": "2026-03-17",
+    "ticker": "HOLX",
+    "price_at_pick": 75.15,
+    "score": 100.0,
+    "rsi": 42.3,
+    "five_day_return": -0.58,
+    "target_price": 75.9,
+    "result": null,
+    "actual_return": null
   }
 ]
