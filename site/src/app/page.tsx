@@ -106,10 +106,19 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Footer */}
-      <footer className="border-t border-[var(--color-border)] py-8 text-center font-[family-name:var(--font-mono)] text-[10px] text-[var(--color-muted)]">
-        not financial advice
-      </footer>
+      {/* Thesis */}
+      <section className="border-t border-[var(--color-border)] py-20 text-center">
+        <p className="mx-auto max-w-sm text-sm leading-relaxed text-[var(--color-muted)]">
+          1% a day. That&apos;s it. One pick, one percent.
+        </p>
+        <p className="mx-auto mt-4 max-w-sm text-sm leading-relaxed text-[var(--color-muted)]">
+          $10,000 compounded at 1% daily is $1.4M in a year.
+          The math is simple. The execution is everything.
+        </p>
+        <p className="mt-8 font-[family-name:var(--font-mono)] text-xs text-[var(--color-muted)]/40">
+          not financial advice
+        </p>
+      </section>
     </div>
   );
 }
