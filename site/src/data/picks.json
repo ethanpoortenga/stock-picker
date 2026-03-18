@@ -21,5 +21,16 @@
     "target_price": 75.9,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-03-18",
+    "ticker": "OMC",
+    "price_at_pick": 78.39,
+    "score": 90.0,
+    "rsi": 36.8,
+    "five_day_return": -2.23,
+    "target_price": 79.17,
+    "result": null,
+    "actual_return": null
   }
 ]
