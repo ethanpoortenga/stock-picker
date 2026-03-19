@@ -32,5 +32,16 @@
     "target_price": 79.17,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-03-19",
+    "ticker": "ES",
+    "price_at_pick": 72.74,
+    "score": 93.0,
+    "rsi": 40.7,
+    "five_day_return": -1.62,
+    "target_price": 73.47,
+    "result": null,
+    "actual_return": null
   }
 ]
