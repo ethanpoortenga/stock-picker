@@ -43,5 +43,16 @@
     "target_price": 73.47,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-03-20",
+    "ticker": "AEP",
+    "price_at_pick": 128.72,
+    "score": 100.0,
+    "rsi": 33.0,
+    "five_day_return": -2.65,
+    "target_price": 130.01,
+    "result": null,
+    "actual_return": null
   }
 ]
