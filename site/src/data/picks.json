@@ -54,5 +54,16 @@
     "target_price": 130.01,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-03-23",
+    "ticker": "CME",
+    "price_at_pick": 307.32,
+    "score": 100.0,
+    "rsi": 35.8,
+    "five_day_return": -1.31,
+    "target_price": 310.39,
+    "result": null,
+    "actual_return": null
   }
 ]
