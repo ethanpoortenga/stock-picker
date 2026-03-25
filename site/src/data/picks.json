@@ -76,5 +76,16 @@
     "target_price": 94.31,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-03-25",
+    "ticker": "TGT",
+    "price_at_pick": 115.92,
+    "score": 85.0,
+    "rsi": 36.4,
+    "five_day_return": -0.72,
+    "target_price": 117.08,
+    "result": null,
+    "actual_return": null
   }
 ]
