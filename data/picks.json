@@ -109,5 +109,16 @@
     "target_price": 72.51,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-03-30",
+    "ticker": "GRMN",
+    "price_at_pick": 230.16,
+    "score": 75.0,
+    "rsi": 37.6,
+    "five_day_return": -0.95,
+    "target_price": 232.46,
+    "result": null,
+    "actual_return": null
   }
 ]
