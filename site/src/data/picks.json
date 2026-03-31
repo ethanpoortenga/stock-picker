@@ -120,5 +120,16 @@
     "target_price": 232.46,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-03-31",
+    "ticker": "ROST",
+    "price_at_pick": 208.79,
+    "score": 90.0,
+    "rsi": 43.2,
+    "five_day_return": -2.02,
+    "target_price": 210.88,
+    "result": null,
+    "actual_return": null
   }
 ]
