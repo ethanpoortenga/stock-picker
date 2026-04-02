@@ -142,5 +142,16 @@
     "target_price": 51.31,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-04-02",
+    "ticker": "CZR",
+    "price_at_pick": 26.55,
+    "score": 90.0,
+    "rsi": 33.6,
+    "five_day_return": -1.01,
+    "target_price": 26.82,
+    "result": null,
+    "actual_return": null
   }
 ]
