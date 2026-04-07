@@ -175,5 +175,16 @@
     "target_price": 26.8,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-04-07",
+    "ticker": "VZ",
+    "price_at_pick": 49.15,
+    "score": 75.0,
+    "rsi": 33.3,
+    "five_day_return": -2.31,
+    "target_price": 49.64,
+    "result": null,
+    "actual_return": null
   }
 ]
