@@ -197,5 +197,16 @@
     "target_price": 73.41,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-04-09",
+    "ticker": "KR",
+    "price_at_pick": 70.96,
+    "score": 75.0,
+    "rsi": 42.3,
+    "five_day_return": -1.93,
+    "target_price": 71.67,
+    "result": null,
+    "actual_return": null
   }
 ]
