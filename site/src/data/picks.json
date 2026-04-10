@@ -208,5 +208,16 @@
     "target_price": 71.67,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-04-10",
+    "ticker": "OKE",
+    "price_at_pick": 86.18,
+    "score": 85.0,
+    "rsi": 44.4,
+    "five_day_return": -1.35,
+    "target_price": 87.04,
+    "result": null,
+    "actual_return": null
   }
 ]
