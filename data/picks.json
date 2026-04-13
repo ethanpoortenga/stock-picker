@@ -219,5 +219,16 @@
     "target_price": 87.04,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-04-13",
+    "ticker": "FANG",
+    "price_at_pick": 188.21,
+    "score": 90.0,
+    "rsi": 44.7,
+    "five_day_return": -2.92,
+    "target_price": 190.09,
+    "result": null,
+    "actual_return": null
   }
 ]
