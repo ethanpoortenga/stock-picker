@@ -230,5 +230,16 @@
     "target_price": 190.09,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-04-14",
+    "ticker": "DVN",
+    "price_at_pick": 47.27,
+    "score": 70.0,
+    "rsi": 44.5,
+    "five_day_return": -4.79,
+    "target_price": 47.74,
+    "result": null,
+    "actual_return": null
   }
 ]
