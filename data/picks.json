@@ -252,5 +252,16 @@
     "target_price": 188.38,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-04-16",
+    "ticker": "HAL",
+    "price_at_pick": 37.54,
+    "score": 90.0,
+    "rsi": 43.9,
+    "five_day_return": -0.69,
+    "target_price": 37.92,
+    "result": null,
+    "actual_return": null
   }
 ]
