@@ -307,5 +307,16 @@
     "target_price": 38.69,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-04-23",
+    "ticker": "CNP",
+    "price_at_pick": 42.12,
+    "score": 80.0,
+    "rsi": 38.5,
+    "five_day_return": -0.85,
+    "target_price": 42.54,
+    "result": null,
+    "actual_return": null
   }
 ]
