@@ -318,5 +318,16 @@
     "target_price": 42.54,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-04-24",
+    "ticker": "NDAQ",
+    "price_at_pick": 87.04,
+    "score": 85.0,
+    "rsi": 51.1,
+    "five_day_return": -2.06,
+    "target_price": 87.91,
+    "result": null,
+    "actual_return": null
   }
 ]
