@@ -329,5 +329,16 @@
     "target_price": 87.91,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-04-27",
+    "ticker": "EA",
+    "price_at_pick": 202.67,
+    "score": 85.0,
+    "rsi": 37.4,
+    "five_day_return": -0.57,
+    "target_price": 204.7,
+    "result": null,
+    "actual_return": null
   }
 ]
