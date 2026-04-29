@@ -340,5 +340,16 @@
     "target_price": 204.7,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-04-29",
+    "ticker": "AME",
+    "price_at_pick": 228.95,
+    "score": 85.0,
+    "rsi": 47.7,
+    "five_day_return": -1.97,
+    "target_price": 231.24,
+    "result": null,
+    "actual_return": null
   }
 ]
