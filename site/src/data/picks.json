@@ -362,5 +362,16 @@
     "target_price": 230.15,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-05-01",
+    "ticker": "EMR",
+    "price_at_pick": 140.44,
+    "score": 90.0,
+    "rsi": 43.5,
+    "five_day_return": -1.4,
+    "target_price": 141.84,
+    "result": null,
+    "actual_return": null
   }
 ]
