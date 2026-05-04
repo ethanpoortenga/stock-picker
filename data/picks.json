@@ -373,5 +373,16 @@
     "target_price": 141.84,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-05-04",
+    "ticker": "RL",
+    "price_at_pick": 362.21,
+    "score": 90.0,
+    "rsi": 38.2,
+    "five_day_return": -2.43,
+    "target_price": 365.83,
+    "result": null,
+    "actual_return": null
   }
 ]
