@@ -384,5 +384,16 @@
     "target_price": 365.83,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-05-06",
+    "ticker": "MAR",
+    "price_at_pick": 354.52,
+    "score": 98.0,
+    "rsi": 43.8,
+    "five_day_return": -1.06,
+    "target_price": 358.07,
+    "result": null,
+    "actual_return": null
   }
 ]
