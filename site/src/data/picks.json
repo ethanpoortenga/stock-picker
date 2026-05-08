@@ -406,5 +406,16 @@
     "target_price": 249.13,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-05-08",
+    "ticker": "FOX",
+    "price_at_pick": 56.5,
+    "score": 93.0,
+    "rsi": 37.1,
+    "five_day_return": -0.91,
+    "target_price": 57.06,
+    "result": null,
+    "actual_return": null
   }
 ]
