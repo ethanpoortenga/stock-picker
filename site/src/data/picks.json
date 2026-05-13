@@ -439,5 +439,16 @@
     "target_price": 128.87,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-05-13",
+    "ticker": "JBHT",
+    "price_at_pick": 236.79,
+    "score": 98.0,
+    "rsi": 42.1,
+    "five_day_return": -2.39,
+    "target_price": 239.16,
+    "result": null,
+    "actual_return": null
   }
 ]
