@@ -483,5 +483,16 @@
     "target_price": 21.25,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-05-19",
+    "ticker": "FITB",
+    "price_at_pick": 47.94,
+    "score": 83.0,
+    "rsi": 37.4,
+    "five_day_return": -1.46,
+    "target_price": 48.42,
+    "result": null,
+    "actual_return": null
   }
 ]
