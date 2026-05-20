@@ -494,5 +494,16 @@
     "target_price": 48.42,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-05-20",
+    "ticker": "AMP",
+    "price_at_pick": 463.76,
+    "score": 85.0,
+    "rsi": 42.2,
+    "five_day_return": -1.35,
+    "target_price": 468.4,
+    "result": null,
+    "actual_return": null
   }
 ]
