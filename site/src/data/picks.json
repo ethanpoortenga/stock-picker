@@ -516,5 +516,16 @@
     "target_price": 28.98,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-05-22",
+    "ticker": "MOH",
+    "price_at_pick": 181.26,
+    "score": 90.0,
+    "rsi": 36.1,
+    "five_day_return": -2.97,
+    "target_price": 183.07,
+    "result": null,
+    "actual_return": null
   }
 ]
