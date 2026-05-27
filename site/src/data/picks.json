@@ -549,5 +549,16 @@
     "target_price": 63.77,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-05-27",
+    "ticker": "AIG",
+    "price_at_pick": 77.19,
+    "score": 90.0,
+    "rsi": 43.4,
+    "five_day_return": -1.49,
+    "target_price": 77.96,
+    "result": null,
+    "actual_return": null
   }
 ]
