@@ -560,5 +560,16 @@
     "target_price": 77.96,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-05-28",
+    "ticker": "SBUX",
+    "price_at_pick": 102.1,
+    "score": 75.0,
+    "rsi": 35.6,
+    "five_day_return": -4.02,
+    "target_price": 103.12,
+    "result": null,
+    "actual_return": null
   }
 ]
