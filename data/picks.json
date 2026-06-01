@@ -582,5 +582,16 @@
     "target_price": 243.36,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-01",
+    "ticker": "HWM",
+    "price_at_pick": 258.25,
+    "score": 105.0,
+    "rsi": 38.9,
+    "five_day_return": -0.63,
+    "target_price": 260.83,
+    "result": null,
+    "actual_return": null
   }
 ]
