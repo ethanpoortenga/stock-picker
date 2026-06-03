@@ -604,5 +604,16 @@
     "target_price": 48.07,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-03",
+    "ticker": "BEN",
+    "price_at_pick": 31.12,
+    "score": 90.0,
+    "rsi": 44.4,
+    "five_day_return": -1.74,
+    "target_price": 31.43,
+    "result": null,
+    "actual_return": null
   }
 ]
