@@ -615,5 +615,16 @@
     "target_price": 31.43,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-04",
+    "ticker": "BIIB",
+    "price_at_pick": 195.96,
+    "score": 90.0,
+    "rsi": 40.6,
+    "five_day_return": -0.51,
+    "target_price": 197.92,
+    "result": null,
+    "actual_return": null
   }
 ]
