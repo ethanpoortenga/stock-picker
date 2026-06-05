@@ -626,5 +626,16 @@
     "target_price": 197.92,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-05",
+    "ticker": "CI",
+    "price_at_pick": 280.68,
+    "score": 100.0,
+    "rsi": 40.4,
+    "five_day_return": -0.71,
+    "target_price": 283.49,
+    "result": null,
+    "actual_return": null
   }
 ]
