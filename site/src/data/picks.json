@@ -637,5 +637,16 @@
     "target_price": 283.49,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-08",
+    "ticker": "ON",
+    "price_at_pick": 117.26,
+    "score": 85.0,
+    "rsi": 53.2,
+    "five_day_return": -2.79,
+    "target_price": 118.43,
+    "result": null,
+    "actual_return": null
   }
 ]
