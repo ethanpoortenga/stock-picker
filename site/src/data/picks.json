@@ -648,5 +648,16 @@
     "target_price": 118.43,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-09",
+    "ticker": "EBAY",
+    "price_at_pick": 108.44,
+    "score": 85.0,
+    "rsi": 37.0,
+    "five_day_return": -1.73,
+    "target_price": 109.52,
+    "result": null,
+    "actual_return": null
   }
 ]
