@@ -659,5 +659,16 @@
     "target_price": 109.52,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-10",
+    "ticker": "EOG",
+    "price_at_pick": 137.33,
+    "score": 90.0,
+    "rsi": 38.8,
+    "five_day_return": -0.9,
+    "target_price": 138.7,
+    "result": null,
+    "actual_return": null
   }
 ]
