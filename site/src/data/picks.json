@@ -681,5 +681,16 @@
     "target_price": 14.78,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-12",
+    "ticker": "WY",
+    "price_at_pick": 24.33,
+    "score": 75.0,
+    "rsi": 61.2,
+    "five_day_return": -0.65,
+    "target_price": 24.57,
+    "result": null,
+    "actual_return": null
   }
 ]
