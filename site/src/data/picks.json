@@ -703,5 +703,16 @@
     "target_price": 55.14,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-16",
+    "ticker": "MRK",
+    "price_at_pick": 118.2,
+    "score": 90.0,
+    "rsi": 42.0,
+    "five_day_return": -1.44,
+    "target_price": 119.38,
+    "result": null,
+    "actual_return": null
   }
 ]
