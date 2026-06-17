@@ -714,5 +714,16 @@
     "target_price": 119.38,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-17",
+    "ticker": "INVH",
+    "price_at_pick": 29.0,
+    "score": 85.0,
+    "rsi": 44.9,
+    "five_day_return": -2.68,
+    "target_price": 29.29,
+    "result": null,
+    "actual_return": null
   }
 ]
