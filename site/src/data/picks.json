@@ -736,5 +736,16 @@
     "target_price": 602.86,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-19",
+    "ticker": "MSCI",
+    "price_at_pick": 596.89,
+    "score": 90.0,
+    "rsi": 37.6,
+    "five_day_return": -1.91,
+    "target_price": 602.86,
+    "result": null,
+    "actual_return": null
   }
 ]
