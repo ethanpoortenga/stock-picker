@@ -747,5 +747,16 @@
     "target_price": 602.86,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-22",
+    "ticker": "GM",
+    "price_at_pick": 79.29,
+    "score": 105.0,
+    "rsi": 40.3,
+    "five_day_return": -1.93,
+    "target_price": 80.08,
+    "result": null,
+    "actual_return": null
   }
 ]
