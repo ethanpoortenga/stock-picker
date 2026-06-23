@@ -758,5 +758,16 @@
     "target_price": 80.08,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-23",
+    "ticker": "FDX",
+    "price_at_pick": 328.78,
+    "score": 90.0,
+    "rsi": 44.1,
+    "five_day_return": -2.45,
+    "target_price": 332.07,
+    "result": null,
+    "actual_return": null
   }
 ]
