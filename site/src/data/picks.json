@@ -769,5 +769,16 @@
     "target_price": 332.07,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-24",
+    "ticker": "PAYX",
+    "price_at_pick": 97.99,
+    "score": 93.0,
+    "rsi": 43.0,
+    "five_day_return": -2.88,
+    "target_price": 98.97,
+    "result": null,
+    "actual_return": null
   }
 ]
