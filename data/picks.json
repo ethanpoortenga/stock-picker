@@ -780,5 +780,16 @@
     "target_price": 98.97,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-25",
+    "ticker": "MGM",
+    "price_at_pick": 47.09,
+    "score": 90.0,
+    "rsi": 40.5,
+    "five_day_return": -1.85,
+    "target_price": 47.56,
+    "result": null,
+    "actual_return": null
   }
 ]
