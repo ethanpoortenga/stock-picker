@@ -791,5 +791,16 @@
     "target_price": 47.56,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-26",
+    "ticker": "ADP",
+    "price_at_pick": 216.31,
+    "score": 85.0,
+    "rsi": 30.9,
+    "five_day_return": -1.12,
+    "target_price": 218.47,
+    "result": null,
+    "actual_return": null
   }
 ]
