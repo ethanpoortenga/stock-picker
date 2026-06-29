@@ -802,5 +802,16 @@
     "target_price": 218.47,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-29",
+    "ticker": "CHRW",
+    "price_at_pick": 179.33,
+    "score": 85.0,
+    "rsi": 45.0,
+    "five_day_return": -3.09,
+    "target_price": 181.12,
+    "result": null,
+    "actual_return": null
   }
 ]
