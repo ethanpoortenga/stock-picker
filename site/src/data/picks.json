@@ -813,5 +813,16 @@
     "target_price": 181.12,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-06-30",
+    "ticker": "F",
+    "price_at_pick": 14.02,
+    "score": 75.0,
+    "rsi": 33.3,
+    "five_day_return": -0.64,
+    "target_price": 14.16,
+    "result": null,
+    "actual_return": null
   }
 ]
