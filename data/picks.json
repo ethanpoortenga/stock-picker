@@ -824,5 +824,16 @@
     "target_price": 14.16,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-01",
+    "ticker": "ZBH",
+    "price_at_pick": 86.09,
+    "score": 85.0,
+    "rsi": 42.6,
+    "five_day_return": -1.43,
+    "target_price": 86.95,
+    "result": null,
+    "actual_return": null
   }
 ]
