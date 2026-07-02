@@ -835,5 +835,16 @@
     "target_price": 86.95,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-02",
+    "ticker": "FRT",
+    "price_at_pick": 120.41,
+    "score": 93.0,
+    "rsi": 43.7,
+    "five_day_return": -2.49,
+    "target_price": 121.61,
+    "result": null,
+    "actual_return": null
   }
 ]
