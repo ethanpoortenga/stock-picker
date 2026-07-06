@@ -857,5 +857,16 @@
     "target_price": 14.73,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-06",
+    "ticker": "AES",
+    "price_at_pick": 14.58,
+    "score": 90.0,
+    "rsi": 37.8,
+    "five_day_return": -0.55,
+    "target_price": 14.73,
+    "result": null,
+    "actual_return": null
   }
 ]
