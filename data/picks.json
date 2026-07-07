@@ -868,5 +868,16 @@
     "target_price": 14.73,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-07",
+    "ticker": "EXR",
+    "price_at_pick": 146.14,
+    "score": 85.0,
+    "rsi": 44.4,
+    "five_day_return": -2.06,
+    "target_price": 147.6,
+    "result": null,
+    "actual_return": null
   }
 ]
