@@ -890,5 +890,16 @@
     "target_price": 206.55,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-09",
+    "ticker": "C",
+    "price_at_pick": 137.39,
+    "score": 90.0,
+    "rsi": 38.7,
+    "five_day_return": -1.84,
+    "target_price": 138.76,
+    "result": null,
+    "actual_return": null
   }
 ]
