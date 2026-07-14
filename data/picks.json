@@ -923,5 +923,16 @@
     "target_price": 233.84,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-14",
+    "ticker": "AMAT",
+    "price_at_pick": 575.39,
+    "score": 90.0,
+    "rsi": 43.7,
+    "five_day_return": -2.94,
+    "target_price": 581.14,
+    "result": null,
+    "actual_return": null
   }
 ]
