@@ -945,5 +945,16 @@
     "target_price": 581.14,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-16",
+    "ticker": "WMB",
+    "price_at_pick": 74.38,
+    "score": 90.0,
+    "rsi": 44.9,
+    "five_day_return": -1.18,
+    "target_price": 75.12,
+    "result": null,
+    "actual_return": null
   }
 ]
