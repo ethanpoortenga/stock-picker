@@ -956,5 +956,16 @@
     "target_price": 75.12,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-17",
+    "ticker": "CMS",
+    "price_at_pick": 74.39,
+    "score": 93.0,
+    "rsi": 39.9,
+    "five_day_return": -0.81,
+    "target_price": 75.13,
+    "result": null,
+    "actual_return": null
   }
 ]
