@@ -967,5 +967,16 @@
     "target_price": 75.13,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-20",
+    "ticker": "ETR",
+    "price_at_pick": 113.24,
+    "score": 93.0,
+    "rsi": 41.3,
+    "five_day_return": -1.57,
+    "target_price": 114.37,
+    "result": null,
+    "actual_return": null
   }
 ]
