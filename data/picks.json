@@ -978,5 +978,16 @@
     "target_price": 114.37,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-21",
+    "ticker": "CINF",
+    "price_at_pick": 180.36,
+    "score": 90.0,
+    "rsi": 44.3,
+    "five_day_return": -1.26,
+    "target_price": 182.16,
+    "result": null,
+    "actual_return": null
   }
 ]
