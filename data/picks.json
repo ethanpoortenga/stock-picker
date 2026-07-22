@@ -989,5 +989,16 @@
     "target_price": 182.16,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-22",
+    "ticker": "EVRG",
+    "price_at_pick": 84.92,
+    "score": 93.0,
+    "rsi": 43.6,
+    "five_day_return": -1.77,
+    "target_price": 85.77,
+    "result": null,
+    "actual_return": null
   }
 ]
