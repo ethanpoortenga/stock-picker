@@ -1022,5 +1022,16 @@
     "target_price": 68.96,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-27",
+    "ticker": "EQR",
+    "price_at_pick": 67.86,
+    "score": 100.0,
+    "rsi": 38.8,
+    "five_day_return": -1.65,
+    "target_price": 68.54,
+    "result": null,
+    "actual_return": null
   }
 ]
