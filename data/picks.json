@@ -1055,5 +1055,16 @@
     "target_price": 171.41,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-30",
+    "ticker": "SPGI",
+    "price_at_pick": 419.64,
+    "score": 98.0,
+    "rsi": 43.8,
+    "five_day_return": -2.2,
+    "target_price": 423.84,
+    "result": null,
+    "actual_return": null
   }
 ]
