@@ -1066,5 +1066,16 @@
     "target_price": 423.84,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-07-31",
+    "ticker": "ES",
+    "price_at_pick": 73.84,
+    "score": 100.0,
+    "rsi": 44.4,
+    "five_day_return": -1.05,
+    "target_price": 74.58,
+    "result": null,
+    "actual_return": null
   }
 ]
