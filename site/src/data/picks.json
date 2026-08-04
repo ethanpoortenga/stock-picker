@@ -1088,5 +1088,16 @@
     "target_price": 79.49,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-08-04",
+    "ticker": "FE",
+    "price_at_pick": 48.43,
+    "score": 93.0,
+    "rsi": 43.0,
+    "five_day_return": -1.8,
+    "target_price": 48.91,
+    "result": null,
+    "actual_return": null
   }
 ]
