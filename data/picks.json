@@ -1110,5 +1110,16 @@
     "target_price": 58.09,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-08-07",
+    "ticker": "PM",
+    "price_at_pick": 188.05,
+    "score": 90.0,
+    "rsi": 43.8,
+    "five_day_return": -2.06,
+    "target_price": 189.93,
+    "result": null,
+    "actual_return": null
   }
 ]
