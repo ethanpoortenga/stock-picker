@@ -1132,5 +1132,16 @@
     "target_price": 193.74,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-08-11",
+    "ticker": "HRL",
+    "price_at_pick": 24.7,
+    "score": 85.0,
+    "rsi": 44.6,
+    "five_day_return": -2.1,
+    "target_price": 24.95,
+    "result": null,
+    "actual_return": null
   }
 ]
