@@ -1154,5 +1154,16 @@
     "target_price": 78.08,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-08-13",
+    "ticker": "CB",
+    "price_at_pick": 343.33,
+    "score": 85.0,
+    "rsi": 38.9,
+    "five_day_return": -2.61,
+    "target_price": 346.76,
+    "result": null,
+    "actual_return": null
   }
 ]
