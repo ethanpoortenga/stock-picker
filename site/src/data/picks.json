@@ -1165,5 +1165,16 @@
     "target_price": 346.76,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-08-14",
+    "ticker": "HON",
+    "price_at_pick": 233.99,
+    "score": 90.0,
+    "rsi": 41.5,
+    "five_day_return": -2.8,
+    "target_price": 236.33,
+    "result": null,
+    "actual_return": null
   }
 ]
