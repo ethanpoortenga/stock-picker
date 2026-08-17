@@ -1176,5 +1176,16 @@
     "target_price": 236.33,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-08-17",
+    "ticker": "IP",
+    "price_at_pick": 40.74,
+    "score": 90.0,
+    "rsi": 44.9,
+    "five_day_return": -0.9,
+    "target_price": 41.15,
+    "result": null,
+    "actual_return": null
   }
 ]
