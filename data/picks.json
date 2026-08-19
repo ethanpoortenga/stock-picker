@@ -1198,5 +1198,16 @@
     "target_price": 614.94,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-08-19",
+    "ticker": "ECL",
+    "price_at_pick": 280.0,
+    "score": 100.0,
+    "rsi": 44.1,
+    "five_day_return": -1.63,
+    "target_price": 282.8,
+    "result": null,
+    "actual_return": null
   }
 ]
