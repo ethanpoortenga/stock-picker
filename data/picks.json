@@ -1220,5 +1220,16 @@
     "target_price": 85.81,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-08-21",
+    "ticker": "MTD",
+    "price_at_pick": 1393.23,
+    "score": 105.0,
+    "rsi": 43.2,
+    "five_day_return": -2.62,
+    "target_price": 1407.16,
+    "result": null,
+    "actual_return": null
   }
 ]
