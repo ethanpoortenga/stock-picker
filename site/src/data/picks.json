@@ -1242,5 +1242,16 @@
     "target_price": 1409.2,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-08-25",
+    "ticker": "COF",
+    "price_at_pick": 216.27,
+    "score": 98.0,
+    "rsi": 43.0,
+    "five_day_return": -2.34,
+    "target_price": 218.43,
+    "result": null,
+    "actual_return": null
   }
 ]
