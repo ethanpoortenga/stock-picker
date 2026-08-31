@@ -1286,5 +1286,16 @@
     "target_price": 46.99,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-08-31",
+    "ticker": "ULTA",
+    "price_at_pick": 517.5,
+    "score": 100.0,
+    "rsi": 40.2,
+    "five_day_return": -0.76,
+    "target_price": 522.67,
+    "result": null,
+    "actual_return": null
   }
 ]
