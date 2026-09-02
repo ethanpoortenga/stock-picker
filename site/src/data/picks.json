@@ -1308,5 +1308,16 @@
     "target_price": 216.66,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-02",
+    "ticker": "DRI",
+    "price_at_pick": 215.56,
+    "score": 90.0,
+    "rsi": 37.6,
+    "five_day_return": -2.2,
+    "target_price": 217.72,
+    "result": null,
+    "actual_return": null
   }
 ]
