@@ -1319,5 +1319,16 @@
     "target_price": 217.72,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-03",
+    "ticker": "TSCO",
+    "price_at_pick": 34.86,
+    "score": 90.0,
+    "rsi": 38.8,
+    "five_day_return": -1.47,
+    "target_price": 35.21,
+    "result": null,
+    "actual_return": null
   }
 ]
