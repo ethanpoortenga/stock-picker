@@ -1363,5 +1363,16 @@
     "target_price": 325.75,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-09",
+    "ticker": "KMI",
+    "price_at_pick": 31.98,
+    "score": 100.0,
+    "rsi": 42.1,
+    "five_day_return": -0.81,
+    "target_price": 32.3,
+    "result": null,
+    "actual_return": null
   }
 ]
