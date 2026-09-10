@@ -1374,5 +1374,16 @@
     "target_price": 32.3,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-10",
+    "ticker": "OGN",
+    "price_at_pick": 13.67,
+    "score": 100.0,
+    "rsi": 33.3,
+    "five_day_return": -0.65,
+    "target_price": 13.81,
+    "result": null,
+    "actual_return": null
   }
 ]
