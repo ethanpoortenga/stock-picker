@@ -1385,5 +1385,16 @@
     "target_price": 13.81,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-11",
+    "ticker": "CE",
+    "price_at_pick": 45.72,
+    "score": 105.0,
+    "rsi": 44.2,
+    "five_day_return": -2.01,
+    "target_price": 46.18,
+    "result": null,
+    "actual_return": null
   }
 ]
