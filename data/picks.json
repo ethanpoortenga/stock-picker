@@ -1396,5 +1396,16 @@
     "target_price": 46.18,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-14",
+    "ticker": "ARE",
+    "price_at_pick": 51.14,
+    "score": 90.0,
+    "rsi": 37.8,
+    "five_day_return": -2.94,
+    "target_price": 51.65,
+    "result": null,
+    "actual_return": null
   }
 ]
