@@ -1407,5 +1407,16 @@
     "target_price": 51.65,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-15",
+    "ticker": "JKHY",
+    "price_at_pick": 164.55,
+    "score": 98.0,
+    "rsi": 40.3,
+    "five_day_return": -0.66,
+    "target_price": 166.2,
+    "result": null,
+    "actual_return": null
   }
 ]
