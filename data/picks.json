@@ -1418,5 +1418,16 @@
     "target_price": 166.2,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-16",
+    "ticker": "KMX",
+    "price_at_pick": 59.86,
+    "score": 93.0,
+    "rsi": 31.4,
+    "five_day_return": -1.17,
+    "target_price": 60.46,
+    "result": null,
+    "actual_return": null
   }
 ]
