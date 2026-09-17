@@ -1429,5 +1429,16 @@
     "target_price": 60.46,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-17",
+    "ticker": "KDP",
+    "price_at_pick": 31.8,
+    "score": 98.0,
+    "rsi": 44.9,
+    "five_day_return": -0.87,
+    "target_price": 32.12,
+    "result": null,
+    "actual_return": null
   }
 ]
