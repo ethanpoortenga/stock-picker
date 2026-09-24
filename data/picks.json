@@ -1484,5 +1484,16 @@
     "target_price": 278.29,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-24",
+    "ticker": "MCK",
+    "price_at_pick": 880.5,
+    "score": 85.0,
+    "rsi": 41.3,
+    "five_day_return": -2.12,
+    "target_price": 889.31,
+    "result": null,
+    "actual_return": null
   }
 ]
