@@ -1506,5 +1506,16 @@
     "target_price": 240.6,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-28",
+    "ticker": "PFG",
+    "price_at_pick": 114.77,
+    "score": 90.0,
+    "rsi": 44.2,
+    "five_day_return": -2.46,
+    "target_price": 115.92,
+    "result": null,
+    "actual_return": null
   }
 ]
