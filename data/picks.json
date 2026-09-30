@@ -1528,5 +1528,16 @@
     "target_price": 90.39,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-09-30",
+    "ticker": "GLW",
+    "price_at_pick": 158.71,
+    "score": 90.0,
+    "rsi": 42.8,
+    "five_day_return": -0.61,
+    "target_price": 160.3,
+    "result": null,
+    "actual_return": null
   }
 ]
