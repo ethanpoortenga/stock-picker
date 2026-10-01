@@ -1539,5 +1539,16 @@
     "target_price": 160.3,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-10-01",
+    "ticker": "HPQ",
+    "price_at_pick": 31.28,
+    "score": 85.0,
+    "rsi": 44.2,
+    "five_day_return": -2.74,
+    "target_price": 31.59,
+    "result": null,
+    "actual_return": null
   }
 ]
