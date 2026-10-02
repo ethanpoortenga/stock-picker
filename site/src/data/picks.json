@@ -1550,5 +1550,16 @@
     "target_price": 31.59,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-10-02",
+    "ticker": "CRM",
+    "price_at_pick": 236.69,
+    "score": 75.0,
+    "rsi": 42.0,
+    "five_day_return": -0.64,
+    "target_price": 239.06,
+    "result": null,
+    "actual_return": null
   }
 ]
