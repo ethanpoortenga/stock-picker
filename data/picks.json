@@ -1583,5 +1583,16 @@
     "target_price": 191.43,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-10-07",
+    "ticker": "IT",
+    "price_at_pick": 184.92,
+    "score": 90.0,
+    "rsi": 42.7,
+    "five_day_return": -0.5,
+    "target_price": 186.77,
+    "result": null,
+    "actual_return": null
   }
 ]
