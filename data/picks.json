@@ -1605,5 +1605,16 @@
     "target_price": 84.26,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-10-09",
+    "ticker": "IQV",
+    "price_at_pick": 258.88,
+    "score": 85.0,
+    "rsi": 42.1,
+    "five_day_return": -0.71,
+    "target_price": 261.47,
+    "result": null,
+    "actual_return": null
   }
 ]
