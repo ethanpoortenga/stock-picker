@@ -1671,5 +1671,16 @@
     "target_price": 215.12,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-10-19",
+    "ticker": "NDSN",
+    "price_at_pick": 322.31,
+    "score": 105.0,
+    "rsi": 34.8,
+    "five_day_return": -1.79,
+    "target_price": 325.53,
+    "result": null,
+    "actual_return": null
   }
 ]
