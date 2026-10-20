@@ -1682,5 +1682,16 @@
     "target_price": 325.53,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-10-20",
+    "ticker": "TXN",
+    "price_at_pick": 276.15,
+    "score": 100.0,
+    "rsi": 44.7,
+    "five_day_return": -1.98,
+    "target_price": 278.91,
+    "result": null,
+    "actual_return": null
   }
 ]
