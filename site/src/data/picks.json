@@ -1748,5 +1748,16 @@
     "target_price": 325.39,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-10-28",
+    "ticker": "CDNS",
+    "price_at_pick": 343.08,
+    "score": 80.0,
+    "rsi": 44.2,
+    "five_day_return": 7.26,
+    "target_price": 346.51,
+    "result": null,
+    "actual_return": null
   }
 ]
