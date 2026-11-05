@@ -1814,5 +1814,16 @@
     "target_price": 68.15,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-11-05",
+    "ticker": "IFF",
+    "price_at_pick": 87.67,
+    "score": 90.0,
+    "rsi": 43.0,
+    "five_day_return": -3.3,
+    "target_price": 88.55,
+    "result": null,
+    "actual_return": null
   }
 ]
