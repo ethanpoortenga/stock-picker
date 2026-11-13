@@ -1880,5 +1880,16 @@
     "target_price": 304.46,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-11-13",
+    "ticker": "DXC",
+    "price_at_pick": 14.85,
+    "score": 90.0,
+    "rsi": 39.4,
+    "five_day_return": -2.11,
+    "target_price": 15.0,
+    "result": null,
+    "actual_return": null
   }
 ]
