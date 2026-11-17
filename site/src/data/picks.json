@@ -1902,5 +1902,16 @@
     "target_price": 14.88,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-11-17",
+    "ticker": "IBM",
+    "price_at_pick": 242.51,
+    "score": 90.0,
+    "rsi": 43.3,
+    "five_day_return": -0.78,
+    "target_price": 244.94,
+    "result": null,
+    "actual_return": null
   }
 ]
