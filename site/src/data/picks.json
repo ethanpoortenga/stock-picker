@@ -1913,5 +1913,16 @@
     "target_price": 244.94,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-11-18",
+    "ticker": "LMT",
+    "price_at_pick": 590.34,
+    "score": 90.0,
+    "rsi": 38.8,
+    "five_day_return": -2.12,
+    "target_price": 596.24,
+    "result": null,
+    "actual_return": null
   }
 ]
