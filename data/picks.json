@@ -1935,5 +1935,16 @@
     "target_price": 388.01,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-11-20",
+    "ticker": "EXPD",
+    "price_at_pick": 193.14,
+    "score": 90.0,
+    "rsi": 44.2,
+    "five_day_return": -1.29,
+    "target_price": 195.07,
+    "result": null,
+    "actual_return": null
   }
 ]
