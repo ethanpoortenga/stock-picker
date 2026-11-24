@@ -1946,5 +1946,16 @@
     "target_price": 195.07,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-11-24",
+    "ticker": "AOS",
+    "price_at_pick": 63.24,
+    "score": 90.0,
+    "rsi": 41.8,
+    "five_day_return": -1.56,
+    "target_price": 63.87,
+    "result": null,
+    "actual_return": null
   }
 ]
