@@ -1957,5 +1957,16 @@
     "target_price": 63.87,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-11-25",
+    "ticker": "VTR",
+    "price_at_pick": 87.17,
+    "score": 98.0,
+    "rsi": 35.4,
+    "five_day_return": -0.99,
+    "target_price": 88.04,
+    "result": null,
+    "actual_return": null
   }
 ]
