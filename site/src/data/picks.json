@@ -1968,5 +1968,16 @@
     "target_price": 88.04,
     "result": null,
     "actual_return": null
+  },
+  {
+    "date": "2026-11-26",
+    "ticker": "ADSK",
+    "price_at_pick": 246.79,
+    "score": 100.0,
+    "rsi": 32.0,
+    "five_day_return": -2.45,
+    "target_price": 249.26,
+    "result": null,
+    "actual_return": null
   }
 ]
